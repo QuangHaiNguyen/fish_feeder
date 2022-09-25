@@ -1,0 +1,2525 @@
+Archive member included to satisfy reference by file (symbol)
+
+d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_divmodhi4.o)
+                              build/default/debug/mcc_generated_files/winc/socket/socket.o (__divmodhi4)
+d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_udivmodsi4.o)
+                              build/default/debug/Servo/atmega4808_pwm.o (__udivmodsi4)
+d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_exit.o)
+                              D:/Toolchains/Microchip/xc8/v2.31/dfp/xc8/avr/lib/avrxmega3/crtatmega4808.o (exit)
+d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_tablejump2.o)
+                              build/default/debug/application/application.o (__tablejump2__)
+d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_copy_data.o)
+                              build/default/debug/application/application.o (__do_copy_data)
+d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_udivmodhi4.o)
+                              d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_divmodhi4.o) (__udivmodhi4)
+d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(malloc.o)
+                              build/default/debug/application/application.o (malloc)
+d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(memcpy.o)
+                              build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o (memcpy)
+d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(memset.o)
+                              build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o (memset)
+d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(strcmp.o)
+                              build/default/debug/cli/cli.o (strcmp)
+d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(iob.o)
+                              build/default/debug/mcc_generated_files/src/usart2.o (__iob)
+d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(printf.o)
+                              build/default/debug/application/application.o (printf)
+d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(vfprintf_std.o)
+                              d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(printf.o) (vfprintf)
+d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(strnlen_P.o)
+                              d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(vfprintf_std.o) (strnlen_P)
+d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(strnlen.o)
+                              d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(vfprintf_std.o) (strnlen)
+d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(fputc.o)
+                              d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(vfprintf_std.o) (fputc)
+d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(ultoa_invert.o)
+                              d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(vfprintf_std.o) (__ultoa_invert)
+d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_prologue.o)
+                              d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(printf.o) (__prologue_saves__)
+d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_epilogue.o)
+                              d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(printf.o) (__epilogue_restores__)
+
+Allocating common symbols
+Common symbol       size              file
+
+ip                  0x4               build/default/debug/application/application.o
+version             0x1               build/default/debug/application/application.o
+w_ptr               0x2               build/default/debug/application/application.o
+__brkval            0x2               d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(malloc.o)
+interface           0x2               build/default/debug/application/application.o
+server              0x2               build/default/debug/application/application.o
+ip_addr             0x4               build/default/debug/network/network_winc1500.o
+r_ptr               0x2               build/default/debug/application/application.o
+write_data          0x2               build/default/debug/network/winc1500_tcp_server.o
+read_data           0x2               build/default/debug/network/winc1500_tcp_server.o
+wifi_param          0xb               build/default/debug/network/network_winc1500.o
+sub_version         0x1               build/default/debug/application/application.o
+read_cb             0x2               build/default/debug/network/winc1500_tcp_server.o
+size                0x2               build/default/debug/network/winc1500_tcp_server.o
+tcp_server_socket   0x1               build/default/debug/network/winc1500_tcp_server.o
+__flp               0x2               d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(malloc.o)
+__iob               0x6               d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(iob.o)
+tcp_client_socket   0x1               build/default/debug/network/winc1500_tcp_server.o
+ssub_version        0x1               build/default/debug/application/application.o
+
+Discarded input sections
+
+ .data          0x0000000000000000        0x0 D:/Toolchains/Microchip/xc8/v2.31/dfp/xc8/avr/lib/avrxmega3/crtatmega4808.o
+ .bss           0x0000000000000000        0x0 D:/Toolchains/Microchip/xc8/v2.31/dfp/xc8/avr/lib/avrxmega3/crtatmega4808.o
+ .text          0x0000000000000000        0x0 build/default/debug/application/application.o
+ .data          0x0000000000000000        0x0 build/default/debug/application/application.o
+ .bss           0x0000000000000000        0x0 build/default/debug/application/application.o
+ .text.Network_Callback
+                0x0000000000000000       0x24 build/default/debug/application/application.o
+ .text.BlinkBlueLED
+                0x0000000000000000       0xa6 build/default/debug/application/application.o
+ .text.App_Run  0x0000000000000000      0x2d0 build/default/debug/application/application.o
+ .progmem.gcc_sw_table.App_Run
+                0x0000000000000000       0x10 build/default/debug/application/application.o
+ .rodata.__FUNCTION__.5572
+                0x0000000000000000        0x8 build/default/debug/application/application.o
+ .bss.last_tick
+                0x0000000000000000        0x4 build/default/debug/application/application.o
+ .text          0x0000000000000000        0x0 build/default/debug/application/Client_Handle.o
+ .data          0x0000000000000000        0x0 build/default/debug/application/Client_Handle.o
+ .bss           0x0000000000000000        0x0 build/default/debug/application/Client_Handle.o
+ .text.MSG_FEED_Handle
+                0x0000000000000000        0x2 build/default/debug/application/Client_Handle.o
+ .rodata        0x0000000000000000       0x62 build/default/debug/application/Client_Handle.o
+ .text.MSG_HELLO_Handle
+                0x0000000000000000       0xd0 build/default/debug/application/Client_Handle.o
+ .text.VerifyCRC
+                0x0000000000000000       0xfc build/default/debug/application/Client_Handle.o
+ .text.Client_Handle_ProcessCommand
+                0x0000000000000000       0x7c build/default/debug/application/Client_Handle.o
+ .rodata.msg_list
+                0x0000000000000000        0x9 build/default/debug/application/Client_Handle.o
+ .debug_info    0x0000000000000000      0x5aa build/default/debug/application/Client_Handle.o
+ .debug_abbrev  0x0000000000000000      0x16b build/default/debug/application/Client_Handle.o
+ .debug_loc     0x0000000000000000      0x142 build/default/debug/application/Client_Handle.o
+ .debug_aranges
+                0x0000000000000000       0x38 build/default/debug/application/Client_Handle.o
+ .debug_ranges  0x0000000000000000       0x40 build/default/debug/application/Client_Handle.o
+ .debug_line    0x0000000000000000      0x1e8 build/default/debug/application/Client_Handle.o
+ .debug_str     0x0000000000000000        0xd build/default/debug/application/Client_Handle.o
+ .comment       0x0000000000000000       0x30 build/default/debug/application/Client_Handle.o
+ .debug_frame   0x0000000000000000       0xe8 build/default/debug/application/Client_Handle.o
+ .text          0x0000000000000000        0x0 build/default/debug/cli/cli.o
+ .data          0x0000000000000000        0x0 build/default/debug/cli/cli.o
+ .bss           0x0000000000000000        0x0 build/default/debug/cli/cli.o
+ .text.CLI_ProccessCommand
+                0x0000000000000000       0x88 build/default/debug/cli/cli.o
+ .text.CLI_Deinit
+                0x0000000000000000       0x10 build/default/debug/cli/cli.o
+ .text          0x0000000000000000        0x0 build/default/debug/led/led.o
+ .data          0x0000000000000000        0x0 build/default/debug/led/led.o
+ .bss           0x0000000000000000        0x0 build/default/debug/led/led.o
+ .text.LED_GetVersion
+                0x0000000000000000       0x10 build/default/debug/led/led.o
+ .text.LED_GetNumOfLed
+                0x0000000000000000        0x4 build/default/debug/led/led.o
+ .text.LED_SetHigh
+                0x0000000000000000       0x30 build/default/debug/led/led.o
+ .text.LED_SetLow
+                0x0000000000000000       0x30 build/default/debug/led/led.o
+ .text.LED_Init
+                0x0000000000000000       0x24 build/default/debug/led/led.o
+ .text.LED_Deinit
+                0x0000000000000000        0xc build/default/debug/led/led.o
+ .debug_info    0x0000000000000000      0x4dc build/default/debug/led/led.o
+ .debug_abbrev  0x0000000000000000      0x146 build/default/debug/led/led.o
+ .debug_loc     0x0000000000000000      0x136 build/default/debug/led/led.o
+ .debug_aranges
+                0x0000000000000000       0x48 build/default/debug/led/led.o
+ .debug_ranges  0x0000000000000000       0x38 build/default/debug/led/led.o
+ .debug_line    0x0000000000000000      0x17d build/default/debug/led/led.o
+ .debug_str     0x0000000000000000       0x20 build/default/debug/led/led.o
+ .comment       0x0000000000000000       0x30 build/default/debug/led/led.o
+ .debug_frame   0x0000000000000000       0x74 build/default/debug/led/led.o
+ .text          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/drivers/spi_master.o
+ .data          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/drivers/spi_master.o
+ .bss           0x0000000000000000        0x0 build/default/debug/mcc_generated_files/drivers/spi_master.o
+ .text.WINC_open
+                0x0000000000000000        0x8 build/default/debug/mcc_generated_files/drivers/spi_master.o
+ .text.spi_master_open
+                0x0000000000000000        0xe build/default/debug/mcc_generated_files/drivers/spi_master.o
+ .rodata.spiMaster
+                0x0000000000000000       0x14 build/default/debug/mcc_generated_files/drivers/spi_master.o
+ .debug_info    0x0000000000000000      0x4ea build/default/debug/mcc_generated_files/drivers/spi_master.o
+ .debug_abbrev  0x0000000000000000      0x126 build/default/debug/mcc_generated_files/drivers/spi_master.o
+ .debug_loc     0x0000000000000000       0x3a build/default/debug/mcc_generated_files/drivers/spi_master.o
+ .debug_aranges
+                0x0000000000000000       0x28 build/default/debug/mcc_generated_files/drivers/spi_master.o
+ .debug_ranges  0x0000000000000000       0x18 build/default/debug/mcc_generated_files/drivers/spi_master.o
+ .debug_line    0x0000000000000000      0x155 build/default/debug/mcc_generated_files/drivers/spi_master.o
+ .debug_str     0x0000000000000000       0x17 build/default/debug/mcc_generated_files/drivers/spi_master.o
+ .comment       0x0000000000000000       0x30 build/default/debug/mcc_generated_files/drivers/spi_master.o
+ .debug_frame   0x0000000000000000       0x34 build/default/debug/mcc_generated_files/drivers/spi_master.o
+ .text          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .data          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .bss           0x0000000000000000        0x0 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .text.PORTA_RST_DefaultInterruptHandler
+                0x0000000000000000        0x2 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .text.PORTA_PA4_DefaultInterruptHandler
+                0x0000000000000000        0x2 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .text.PORTA_PA6_DefaultInterruptHandler
+                0x0000000000000000        0x2 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .text.PORTA_PA5_DefaultInterruptHandler
+                0x0000000000000000        0x2 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .text.PORTA_nCS_DefaultInterruptHandler
+                0x0000000000000000        0x2 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .text.PORTD_YELLOW_LED_DefaultInterruptHandler
+                0x0000000000000000        0x2 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .text.PORTC_PC0_DefaultInterruptHandler
+                0x0000000000000000        0x2 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .text.PORTD_RED_LED_DefaultInterruptHandler
+                0x0000000000000000        0x2 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .text.PORTD_BLUE_LED_DefaultInterruptHandler
+                0x0000000000000000        0x2 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .text.PORTC_PC2_DefaultInterruptHandler
+                0x0000000000000000        0x2 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .text.PORTD_GREEN_LED_DefaultInterruptHandler
+                0x0000000000000000        0x2 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .text.PORTC_PC1_DefaultInterruptHandler
+                0x0000000000000000        0x2 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .text.PORTA_RST_SetInterruptHandler
+                0x0000000000000000        0x2 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .text.PORTA_PA4_SetInterruptHandler
+                0x0000000000000000        0x2 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .text.PORTA_PA6_SetInterruptHandler
+                0x0000000000000000        0x2 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .text.PORTA_PA5_SetInterruptHandler
+                0x0000000000000000        0x2 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .text.PORTA_nCS_SetInterruptHandler
+                0x0000000000000000        0x2 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .text.PORTF_PF1_SetInterruptHandler
+                0x0000000000000000        0xa build/default/debug/mcc_generated_files/src/pin_manager.o
+ .text.PORTF_PF0_SetInterruptHandler
+                0x0000000000000000        0xa build/default/debug/mcc_generated_files/src/pin_manager.o
+ .text.PORTD_YELLOW_LED_SetInterruptHandler
+                0x0000000000000000        0x2 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .text.PORTF_CE_SetInterruptHandler
+                0x0000000000000000        0xa build/default/debug/mcc_generated_files/src/pin_manager.o
+ .text.PORTC_PC0_SetInterruptHandler
+                0x0000000000000000        0x2 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .text.PORTD_RED_LED_SetInterruptHandler
+                0x0000000000000000        0x2 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .text.PORTF_INT_SetInterruptHandler
+                0x0000000000000000        0xa build/default/debug/mcc_generated_files/src/pin_manager.o
+ .text.PORTD_BLUE_LED_SetInterruptHandler
+                0x0000000000000000        0x2 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .text.PORTC_PC2_SetInterruptHandler
+                0x0000000000000000        0x2 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .text.PORTD_GREEN_LED_SetInterruptHandler
+                0x0000000000000000        0x2 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .text.PORTF_WAKE_SetInterruptHandler
+                0x0000000000000000        0xa build/default/debug/mcc_generated_files/src/pin_manager.o
+ .text.PORTC_PC1_SetInterruptHandler
+                0x0000000000000000        0x2 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .text          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/src/cpuint.o
+ .data          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/src/cpuint.o
+ .bss           0x0000000000000000        0x0 build/default/debug/mcc_generated_files/src/cpuint.o
+ .text          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/src/usart2.o
+ .data          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/src/usart2.o
+ .bss           0x0000000000000000        0x0 build/default/debug/mcc_generated_files/src/usart2.o
+ .text.USART2_SetRXISRCb
+                0x0000000000000000        0xa build/default/debug/mcc_generated_files/src/usart2.o
+ .text.USART2_SetTXISRCb
+                0x0000000000000000        0xa build/default/debug/mcc_generated_files/src/usart2.o
+ .text.USART2_IsTxReady
+                0x0000000000000000        0xe build/default/debug/mcc_generated_files/src/usart2.o
+ .text.USART2_IsRxReady
+                0x0000000000000000        0xe build/default/debug/mcc_generated_files/src/usart2.o
+ .text.USART2_IsTxBusy
+                0x0000000000000000       0x10 build/default/debug/mcc_generated_files/src/usart2.o
+ .text.USART2_IsTxDone
+                0x0000000000000000        0xc build/default/debug/mcc_generated_files/src/usart2.o
+ .text.USART2_Read
+                0x0000000000000000       0x32 build/default/debug/mcc_generated_files/src/usart2.o
+ .text.USART2_EnableRx
+                0x0000000000000000        0xc build/default/debug/mcc_generated_files/src/usart2.o
+ .text.USART2_EnableTx
+                0x0000000000000000        0xc build/default/debug/mcc_generated_files/src/usart2.o
+ .text.USART2_Disable
+                0x0000000000000000        0xc build/default/debug/mcc_generated_files/src/usart2.o
+ .text.USART2_GetData
+                0x0000000000000000        0x6 build/default/debug/mcc_generated_files/src/usart2.o
+ .text          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/src/protected_io.o
+ .data          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/src/protected_io.o
+ .bss           0x0000000000000000        0x0 build/default/debug/mcc_generated_files/src/protected_io.o
+ .text          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/src/spi0.o
+ .data          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/src/spi0.o
+ .bss           0x0000000000000000        0x0 build/default/debug/mcc_generated_files/src/spi0.o
+ .text.SPI0_Enable
+                0x0000000000000000        0xc build/default/debug/mcc_generated_files/src/spi0.o
+ .text.SPI0_Disable
+                0x0000000000000000        0xc build/default/debug/mcc_generated_files/src/spi0.o
+ .text.SPI0_Open
+                0x0000000000000000       0x1e build/default/debug/mcc_generated_files/src/spi0.o
+ .text.SPI0_OpenConfiguration
+                0x0000000000000000       0x16 build/default/debug/mcc_generated_files/src/spi0.o
+ .text.SPI0_Close
+                0x0000000000000000        0x6 build/default/debug/mcc_generated_files/src/spi0.o
+ .text.SPI0_ExchangeByte
+                0x0000000000000000       0x14 build/default/debug/mcc_generated_files/src/spi0.o
+ .text.SPI0_Selected
+                0x0000000000000000        0x4 build/default/debug/mcc_generated_files/src/spi0.o
+ .text.SPI0_GetRxData
+                0x0000000000000000        0x6 build/default/debug/mcc_generated_files/src/spi0.o
+ .text.SPI0_WriteTxData
+                0x0000000000000000        0x6 build/default/debug/mcc_generated_files/src/spi0.o
+ .text.SPI0_WaitDataready
+                0x0000000000000000        0xc build/default/debug/mcc_generated_files/src/spi0.o
+ .text.SPI0_ExchangeBlock
+                0x0000000000000000       0x26 build/default/debug/mcc_generated_files/src/spi0.o
+ .text.SPI0_WriteBlock
+                0x0000000000000000       0x24 build/default/debug/mcc_generated_files/src/spi0.o
+ .text.SPI0_ReadBlock
+                0x0000000000000000       0x24 build/default/debug/mcc_generated_files/src/spi0.o
+ .text.SPI0_WriteByte
+                0x0000000000000000        0x6 build/default/debug/mcc_generated_files/src/spi0.o
+ .text.SPI0_ReadByte
+                0x0000000000000000        0x6 build/default/debug/mcc_generated_files/src/spi0.o
+ .data.spi0_configurations
+                0x0000000000000000        0x4 build/default/debug/mcc_generated_files/src/spi0.o
+ .text          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/src/tca0.o
+ .data          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/src/tca0.o
+ .bss           0x0000000000000000        0x0 build/default/debug/mcc_generated_files/src/tca0.o
+ .text.TCA0_SetCMP0IsrCallback
+                0x0000000000000000        0xa build/default/debug/mcc_generated_files/src/tca0.o
+ .text.TCA0_SetCMP1IsrCallback
+                0x0000000000000000        0xa build/default/debug/mcc_generated_files/src/tca0.o
+ .text.TCA0_SetCMP2IsrCallback
+                0x0000000000000000        0xa build/default/debug/mcc_generated_files/src/tca0.o
+ .text.TCA0_WriteTimer
+                0x0000000000000000        0xa build/default/debug/mcc_generated_files/src/tca0.o
+ .text.TCA0_ReadTimer
+                0x0000000000000000        0xa build/default/debug/mcc_generated_files/src/tca0.o
+ .text.TCA0_EnableInterrupt
+                0x0000000000000000        0x8 build/default/debug/mcc_generated_files/src/tca0.o
+ .text.TCA0_DisableInterrupt
+                0x0000000000000000        0x6 build/default/debug/mcc_generated_files/src/tca0.o
+ .text.TCA0_IsOverflowInterruptEnabled
+                0x0000000000000000        0xc build/default/debug/mcc_generated_files/src/tca0.o
+ .text          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/src/rtc.o
+ .data          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/src/rtc.o
+ .bss           0x0000000000000000        0x0 build/default/debug/mcc_generated_files/src/rtc.o
+ .text.RTC_SetOVFIsrCallback
+                0x0000000000000000        0xa build/default/debug/mcc_generated_files/src/rtc.o
+ .text.RTC_SetCMPIsrCallback
+                0x0000000000000000        0xa build/default/debug/mcc_generated_files/src/rtc.o
+ .text.RTC_WriteCounter
+                0x0000000000000000       0x16 build/default/debug/mcc_generated_files/src/rtc.o
+ .text.RTC_ReadCounter
+                0x0000000000000000        0xa build/default/debug/mcc_generated_files/src/rtc.o
+ .text.RTC_WritePeroid
+                0x0000000000000000       0x16 build/default/debug/mcc_generated_files/src/rtc.o
+ .text.RTC_ReadPeriod
+                0x0000000000000000        0xa build/default/debug/mcc_generated_files/src/rtc.o
+ .text.RTC_EnableCMPInterrupt
+                0x0000000000000000        0xc build/default/debug/mcc_generated_files/src/rtc.o
+ .text.RTC_DisableCMPInterrupt
+                0x0000000000000000        0xc build/default/debug/mcc_generated_files/src/rtc.o
+ .text.RTC_EnableOVFInterrupt
+                0x0000000000000000        0xc build/default/debug/mcc_generated_files/src/rtc.o
+ .text.RTC_DisableOVFInterrupt
+                0x0000000000000000        0xc build/default/debug/mcc_generated_files/src/rtc.o
+ .text.RTC_EnablePITInterrupt
+                0x0000000000000000        0xc build/default/debug/mcc_generated_files/src/rtc.o
+ .text.RTC_DisablePITInterrupt
+                0x0000000000000000        0xc build/default/debug/mcc_generated_files/src/rtc.o
+ .text.RTC_ClearOVFInterruptFlag
+                0x0000000000000000        0xc build/default/debug/mcc_generated_files/src/rtc.o
+ .text.RTC_IsOVFInterruptEnabled
+                0x0000000000000000        0xc build/default/debug/mcc_generated_files/src/rtc.o
+ .bss.RTC_CMP_isr_cb
+                0x0000000000000000        0x2 build/default/debug/mcc_generated_files/src/rtc.o
+ .bss.RTC_OVF_isr_cb
+                0x0000000000000000        0x2 build/default/debug/mcc_generated_files/src/rtc.o
+ .text          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/winc/driver/winc_spi.o
+ .data          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/winc/driver/winc_spi.o
+ .bss           0x0000000000000000        0x0 build/default/debug/mcc_generated_files/winc/driver/winc_spi.o
+ .text.spi_rsp  0x0000000000000000       0x6a build/default/debug/mcc_generated_files/winc/driver/winc_spi.o
+ .text.spi_cmd_send
+                0x0000000000000000       0x2a build/default/debug/mcc_generated_files/winc/driver/winc_spi.o
+ .text.spi_data_read
+                0x0000000000000000       0x6e build/default/debug/mcc_generated_files/winc/driver/winc_spi.o
+ .text.spi_read_reg
+                0x0000000000000000       0x96 build/default/debug/mcc_generated_files/winc/driver/winc_spi.o
+ .text.winc_bus_write_reg
+                0x0000000000000000       0x84 build/default/debug/mcc_generated_files/winc/driver/winc_spi.o
+ .text.winc_bus_write_reg_no_rsp
+                0x0000000000000000       0x88 build/default/debug/mcc_generated_files/winc/driver/winc_spi.o
+ .text.winc_bus_write_block
+                0x0000000000000000      0x11c build/default/debug/mcc_generated_files/winc/driver/winc_spi.o
+ .text.winc_bus_read_block
+                0x0000000000000000       0xb4 build/default/debug/mcc_generated_files/winc/driver/winc_spi.o
+ .text.winc_bus_init
+                0x0000000000000000       0x10 build/default/debug/mcc_generated_files/winc/driver/winc_spi.o
+ .text.winc_bus_reset
+                0x0000000000000000       0x10 build/default/debug/mcc_generated_files/winc/driver/winc_spi.o
+ .text.winc_bus_deinit
+                0x0000000000000000        0xa build/default/debug/mcc_generated_files/winc/driver/winc_spi.o
+ .text.winc_bus_read_reg
+                0x0000000000000000       0x50 build/default/debug/mcc_generated_files/winc/driver/winc_spi.o
+ .text.winc_bus_read_reg_with_ret
+                0x0000000000000000       0x24 build/default/debug/mcc_generated_files/winc/driver/winc_spi.o
+ .text.winc_bus_set_reg_bits
+                0x0000000000000000       0x88 build/default/debug/mcc_generated_files/winc/driver/winc_spi.o
+ .text.winc_bus_clear_reg_bits
+                0x0000000000000000       0x92 build/default/debug/mcc_generated_files/winc/driver/winc_spi.o
+ .text.winc_bus_error
+                0x0000000000000000        0x6 build/default/debug/mcc_generated_files/winc/driver/winc_spi.o
+ .rodata.u8CmdBuf.3402
+                0x0000000000000000        0x4 build/default/debug/mcc_generated_files/winc/driver/winc_spi.o
+ .rodata.u8CmdBuf.3398
+                0x0000000000000000        0x9 build/default/debug/mcc_generated_files/winc/driver/winc_spi.o
+ .data.bSPIBusError
+                0x0000000000000000        0x1 build/default/debug/mcc_generated_files/winc/driver/winc_spi.o
+ .debug_info    0x0000000000000000      0xd93 build/default/debug/mcc_generated_files/winc/driver/winc_spi.o
+ .debug_abbrev  0x0000000000000000      0x272 build/default/debug/mcc_generated_files/winc/driver/winc_spi.o
+ .debug_loc     0x0000000000000000      0x913 build/default/debug/mcc_generated_files/winc/driver/winc_spi.o
+ .debug_aranges
+                0x0000000000000000       0x98 build/default/debug/mcc_generated_files/winc/driver/winc_spi.o
+ .debug_ranges  0x0000000000000000       0x88 build/default/debug/mcc_generated_files/winc/driver/winc_spi.o
+ .debug_line    0x0000000000000000      0x5e9 build/default/debug/mcc_generated_files/winc/driver/winc_spi.o
+ .debug_str     0x0000000000000000       0x72 build/default/debug/mcc_generated_files/winc/driver/winc_spi.o
+ .comment       0x0000000000000000       0x30 build/default/debug/mcc_generated_files/winc/driver/winc_spi.o
+ .debug_frame   0x0000000000000000      0x2b4 build/default/debug/mcc_generated_files/winc/driver/winc_spi.o
+ .text          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/winc/driver/winc_adapter.o
+ .data          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/winc/driver/winc_adapter.o
+ .bss           0x0000000000000000        0x0 build/default/debug/mcc_generated_files/winc/driver/winc_adapter.o
+ .text.winc_interrupt_handler
+                0x0000000000000000       0x10 build/default/debug/mcc_generated_files/winc/driver/winc_adapter.o
+ .text.winc_adapter_interrupt_request_pending
+                0x0000000000000000        0xe build/default/debug/mcc_generated_files/winc/driver/winc_adapter.o
+ .text.winc_adapter_interrupt_serviced
+                0x0000000000000000       0x2c build/default/debug/mcc_generated_files/winc/driver/winc_adapter.o
+ .text.winc_adapter_init
+                0x0000000000000000       0x12 build/default/debug/mcc_generated_files/winc/driver/winc_adapter.o
+ .text.winc_adapter_deinit
+                0x0000000000000000        0x4 build/default/debug/mcc_generated_files/winc/driver/winc_adapter.o
+ .text.winc_adapter_sleep
+                0x0000000000000000       0x38 build/default/debug/mcc_generated_files/winc/driver/winc_adapter.o
+ .text.winc_adapter_chip_enable_assert
+                0x0000000000000000        0x8 build/default/debug/mcc_generated_files/winc/driver/winc_adapter.o
+ .text.winc_adapter_chip_enable_deassert
+                0x0000000000000000        0x8 build/default/debug/mcc_generated_files/winc/driver/winc_adapter.o
+ .text.winc_adapter_reset_assert
+                0x0000000000000000        0x8 build/default/debug/mcc_generated_files/winc/driver/winc_adapter.o
+ .text.winc_adapter_reset_deassert
+                0x0000000000000000        0x8 build/default/debug/mcc_generated_files/winc/driver/winc_adapter.o
+ .text.winc_adapter_spi_open
+                0x0000000000000000        0x4 build/default/debug/mcc_generated_files/winc/driver/winc_adapter.o
+ .text.winc_adapter_spi_write
+                0x0000000000000000       0xa6 build/default/debug/mcc_generated_files/winc/driver/winc_adapter.o
+ .text.winc_adapter_spi_read
+                0x0000000000000000       0xa6 build/default/debug/mcc_generated_files/winc/driver/winc_adapter.o
+ .text.winc_adapter_spi_close
+                0x0000000000000000        0x4 build/default/debug/mcc_generated_files/winc/driver/winc_adapter.o
+ .bss.serviceRequest
+                0x0000000000000000        0x1 build/default/debug/mcc_generated_files/winc/driver/winc_adapter.o
+ .debug_info    0x0000000000000000      0xa77 build/default/debug/mcc_generated_files/winc/driver/winc_adapter.o
+ .debug_abbrev  0x0000000000000000      0x207 build/default/debug/mcc_generated_files/winc/driver/winc_adapter.o
+ .debug_loc     0x0000000000000000      0x1d3 build/default/debug/mcc_generated_files/winc/driver/winc_adapter.o
+ .debug_aranges
+                0x0000000000000000       0x88 build/default/debug/mcc_generated_files/winc/driver/winc_adapter.o
+ .debug_ranges  0x0000000000000000       0x78 build/default/debug/mcc_generated_files/winc/driver/winc_adapter.o
+ .debug_line    0x0000000000000000      0x3f4 build/default/debug/mcc_generated_files/winc/driver/winc_adapter.o
+ .debug_str     0x0000000000000000       0x3a build/default/debug/mcc_generated_files/winc/driver/winc_adapter.o
+ .comment       0x0000000000000000       0x30 build/default/debug/mcc_generated_files/winc/driver/winc_adapter.o
+ .debug_frame   0x0000000000000000      0x170 build/default/debug/mcc_generated_files/winc/driver/winc_adapter.o
+ .text          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/winc/driver/winc_hif.o
+ .data          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/winc/driver/winc_hif.o
+ .bss           0x0000000000000000        0x0 build/default/debug/mcc_generated_files/winc/driver/winc_hif.o
+ .text.hif_null_cb
+                0x0000000000000000        0x2 build/default/debug/mcc_generated_files/winc/driver/winc_hif.o
+ .text.winc_hif_chip_wake
+                0x0000000000000000       0x30 build/default/debug/mcc_generated_files/winc/driver/winc_hif.o
+ .text.winc_hif_set_power_save
+                0x0000000000000000        0x6 build/default/debug/mcc_generated_files/winc/driver/winc_hif.o
+ .text.winc_hif_chip_sleep
+                0x0000000000000000       0x32 build/default/debug/mcc_generated_files/winc/driver/winc_hif.o
+ .text.winc_hif_init
+                0x0000000000000000        0xc build/default/debug/mcc_generated_files/winc/driver/winc_hif.o
+ .text.winc_hif_deinit
+                0x0000000000000000        0x6 build/default/debug/mcc_generated_files/winc/driver/winc_hif.o
+ .text.winc_hif_send
+                0x0000000000000000      0x1e6 build/default/debug/mcc_generated_files/winc/driver/winc_hif.o
+ .text.winc_hif_send_no_data
+                0x0000000000000000       0x2a build/default/debug/mcc_generated_files/winc/driver/winc_hif.o
+ .text.winc_hif_handle_isr
+                0x0000000000000000      0x16c build/default/debug/mcc_generated_files/winc/driver/winc_hif.o
+ .text.winc_hif_receive
+                0x0000000000000000       0x80 build/default/debug/mcc_generated_files/winc/driver/winc_hif.o
+ .rodata.gHifCallbacks
+                0x0000000000000000        0xe build/default/debug/mcc_generated_files/winc/driver/winc_hif.o
+ .bss.gbChipPwrSave
+                0x0000000000000000        0x1 build/default/debug/mcc_generated_files/winc/driver/winc_hif.o
+ .bss.gu16RxSize
+                0x0000000000000000        0x2 build/default/debug/mcc_generated_files/winc/driver/winc_hif.o
+ .bss.gu32RxAddr
+                0x0000000000000000        0x4 build/default/debug/mcc_generated_files/winc/driver/winc_hif.o
+ .bss.gu8ChipSleep
+                0x0000000000000000        0x1 build/default/debug/mcc_generated_files/winc/driver/winc_hif.o
+ .debug_info    0x0000000000000000      0xb55 build/default/debug/mcc_generated_files/winc/driver/winc_hif.o
+ .debug_abbrev  0x0000000000000000      0x1da build/default/debug/mcc_generated_files/winc/driver/winc_hif.o
+ .debug_loc     0x0000000000000000      0x404 build/default/debug/mcc_generated_files/winc/driver/winc_hif.o
+ .debug_aranges
+                0x0000000000000000       0x68 build/default/debug/mcc_generated_files/winc/driver/winc_hif.o
+ .debug_ranges  0x0000000000000000       0x58 build/default/debug/mcc_generated_files/winc/driver/winc_hif.o
+ .debug_line    0x0000000000000000      0x3b5 build/default/debug/mcc_generated_files/winc/driver/winc_hif.o
+ .debug_str     0x0000000000000000      0x123 build/default/debug/mcc_generated_files/winc/driver/winc_hif.o
+ .comment       0x0000000000000000       0x30 build/default/debug/mcc_generated_files/winc/driver/winc_hif.o
+ .debug_frame   0x0000000000000000      0x174 build/default/debug/mcc_generated_files/winc/driver/winc_hif.o
+ .text          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/winc/driver/winc_asic.o
+ .data          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/winc/driver/winc_asic.o
+ .bss           0x0000000000000000        0x0 build/default/debug/mcc_generated_files/winc/driver/winc_asic.o
+ .text.winc_chip_interrupts_enable
+                0x0000000000000000       0x3c build/default/debug/mcc_generated_files/winc/driver/winc_asic.o
+ .text.winc_chip_get_id
+                0x0000000000000000      0x138 build/default/debug/mcc_generated_files/winc/driver/winc_asic.o
+ .text.winc_chip_sleep
+                0x0000000000000000       0x78 build/default/debug/mcc_generated_files/winc/driver/winc_asic.o
+ .text.winc_chip_wake
+                0x0000000000000000       0x8a build/default/debug/mcc_generated_files/winc/driver/winc_asic.o
+ .text.winc_chip_halt
+                0x0000000000000000       0x3c build/default/debug/mcc_generated_files/winc/driver/winc_asic.o
+ .text.winc_chip_reset
+                0x0000000000000000       0x20 build/default/debug/mcc_generated_files/winc/driver/winc_asic.o
+ .text.winc_chip_init
+                0x0000000000000000      0x224 build/default/debug/mcc_generated_files/winc/driver/winc_asic.o
+ .text.winc_chip_deinit
+                0x0000000000000000       0x1e build/default/debug/mcc_generated_files/winc/driver/winc_asic.o
+ .text.winc_chip_get_otp_mac_address
+                0x0000000000000000       0xc0 build/default/debug/mcc_generated_files/winc/driver/winc_asic.o
+ .text.winc_chip_get_mac_address
+                0x0000000000000000       0x90 build/default/debug/mcc_generated_files/winc/driver/winc_asic.o
+ .bss.gu32ChipID.3379
+                0x0000000000000000        0x4 build/default/debug/mcc_generated_files/winc/driver/winc_asic.o
+ .debug_info    0x0000000000000000      0xdb3 build/default/debug/mcc_generated_files/winc/driver/winc_asic.o
+ .debug_abbrev  0x0000000000000000      0x18f build/default/debug/mcc_generated_files/winc/driver/winc_asic.o
+ .debug_loc     0x0000000000000000      0x1ee build/default/debug/mcc_generated_files/winc/driver/winc_asic.o
+ .debug_aranges
+                0x0000000000000000       0x68 build/default/debug/mcc_generated_files/winc/driver/winc_asic.o
+ .debug_ranges  0x0000000000000000       0x58 build/default/debug/mcc_generated_files/winc/driver/winc_asic.o
+ .debug_line    0x0000000000000000      0x3aa build/default/debug/mcc_generated_files/winc/driver/winc_asic.o
+ .debug_str     0x0000000000000000       0xdf build/default/debug/mcc_generated_files/winc/driver/winc_asic.o
+ .comment       0x0000000000000000       0x30 build/default/debug/mcc_generated_files/winc/driver/winc_asic.o
+ .debug_frame   0x0000000000000000      0x1a0 build/default/debug/mcc_generated_files/winc/driver/winc_asic.o
+ .text          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/winc/driver/winc_drv.o
+ .data          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/winc/driver/winc_drv.o
+ .bss           0x0000000000000000        0x0 build/default/debug/mcc_generated_files/winc/driver/winc_drv.o
+ .text.winc_drv_init
+                0x0000000000000000       0x7e build/default/debug/mcc_generated_files/winc/driver/winc_drv.o
+ .text.winc_drv_start
+                0x0000000000000000       0x18 build/default/debug/mcc_generated_files/winc/driver/winc_drv.o
+ .text.winc_drv_deinit
+                0x0000000000000000       0x34 build/default/debug/mcc_generated_files/winc/driver/winc_drv.o
+ .debug_info    0x0000000000000000      0x55f build/default/debug/mcc_generated_files/winc/driver/winc_drv.o
+ .debug_abbrev  0x0000000000000000       0xac build/default/debug/mcc_generated_files/winc/driver/winc_drv.o
+ .debug_loc     0x0000000000000000       0x9a build/default/debug/mcc_generated_files/winc/driver/winc_drv.o
+ .debug_aranges
+                0x0000000000000000       0x30 build/default/debug/mcc_generated_files/winc/driver/winc_drv.o
+ .debug_ranges  0x0000000000000000       0x20 build/default/debug/mcc_generated_files/winc/driver/winc_drv.o
+ .debug_line    0x0000000000000000      0x1dd build/default/debug/mcc_generated_files/winc/driver/winc_drv.o
+ .debug_str     0x0000000000000000      0x129 build/default/debug/mcc_generated_files/winc/driver/winc_drv.o
+ .comment       0x0000000000000000       0x30 build/default/debug/mcc_generated_files/winc/driver/winc_drv.o
+ .debug_frame   0x0000000000000000       0x58 build/default/debug/mcc_generated_files/winc/driver/winc_drv.o
+ .text          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/winc/m2m/m2m_ssl.o
+ .data          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/winc/m2m/m2m_ssl.o
+ .bss           0x0000000000000000        0x0 build/default/debug/mcc_generated_files/winc/m2m/m2m_ssl.o
+ .text.m2m_ssl_cb
+                0x0000000000000000      0x180 build/default/debug/mcc_generated_files/winc/m2m/m2m_ssl.o
+ .text.m2m_ssl_init
+                0x0000000000000000       0x22 build/default/debug/mcc_generated_files/winc/m2m/m2m_ssl.o
+ .text.m2m_ssl_handshake_rsp
+                0x0000000000000000       0x36 build/default/debug/mcc_generated_files/winc/m2m/m2m_ssl.o
+ .text.m2m_ssl_send_certs_to_winc
+                0x0000000000000000      0x212 build/default/debug/mcc_generated_files/winc/m2m/m2m_ssl.o
+ .text.m2m_ssl_retrieve_cert
+                0x0000000000000000      0x272 build/default/debug/mcc_generated_files/winc/m2m/m2m_ssl.o
+ .text.m2m_ssl_retrieve_hash
+                0x0000000000000000       0x30 build/default/debug/mcc_generated_files/winc/m2m/m2m_ssl.o
+ .text.m2m_ssl_stop_processing_certs
+                0x0000000000000000        0x2 build/default/debug/mcc_generated_files/winc/m2m/m2m_ssl.o
+ .text.m2m_ssl_ecc_process_done
+                0x0000000000000000       0x12 build/default/debug/mcc_generated_files/winc/m2m/m2m_ssl.o
+ .text.m2m_ssl_set_active_ciphersuites
+                0x0000000000000000       0x32 build/default/debug/mcc_generated_files/winc/m2m/m2m_ssl.o
+ .data.genuStatus
+                0x0000000000000000        0x1 build/default/debug/mcc_generated_files/winc/m2m/m2m_ssl.o
+ .bss.gu32HIFAddr
+                0x0000000000000000        0x4 build/default/debug/mcc_generated_files/winc/m2m/m2m_ssl.o
+ .bss.gpfAppSSLCb
+                0x0000000000000000        0x2 build/default/debug/mcc_generated_files/winc/m2m/m2m_ssl.o
+ .debug_info    0x0000000000000000     0x1058 build/default/debug/mcc_generated_files/winc/m2m/m2m_ssl.o
+ .debug_abbrev  0x0000000000000000      0x24b build/default/debug/mcc_generated_files/winc/m2m/m2m_ssl.o
+ .debug_loc     0x0000000000000000      0x7c1 build/default/debug/mcc_generated_files/winc/m2m/m2m_ssl.o
+ .debug_aranges
+                0x0000000000000000       0x60 build/default/debug/mcc_generated_files/winc/m2m/m2m_ssl.o
+ .debug_ranges  0x0000000000000000       0x70 build/default/debug/mcc_generated_files/winc/m2m/m2m_ssl.o
+ .debug_line    0x0000000000000000      0x468 build/default/debug/mcc_generated_files/winc/m2m/m2m_ssl.o
+ .debug_str     0x0000000000000000       0x49 build/default/debug/mcc_generated_files/winc/m2m/m2m_ssl.o
+ .comment       0x0000000000000000       0x30 build/default/debug/mcc_generated_files/winc/m2m/m2m_ssl.o
+ .debug_frame   0x0000000000000000      0x190 build/default/debug/mcc_generated_files/winc/m2m/m2m_ssl.o
+ .text          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .data          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .bss           0x0000000000000000        0x0 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_connect_prepare_msg
+                0x0000000000000000       0xf0 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_validate_ap_parameters
+                0x0000000000000000       0xc0 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.hexstr_2_bytes
+                0x0000000000000000       0x7e build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_cb
+                0x0000000000000000      0x134 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_download_mode
+                0x0000000000000000       0x22 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_send_crl
+                0x0000000000000000       0x3c build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_init_hold
+                0x0000000000000000       0x16 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_deinit
+                0x0000000000000000       0x10 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_handle_events
+                0x0000000000000000        0x6 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_delete_sc
+                0x0000000000000000       0x3a build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_default_connect
+                0x0000000000000000       0x12 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_connect_open
+                0x0000000000000000       0x46 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_connect_wep
+                0x0000000000000000       0xbe build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_connect_psk
+                0x0000000000000000       0xfc build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_connect_1x_mschap2
+                0x0000000000000000      0x17e build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_connect_1x_tls
+                0x0000000000000000      0x25a build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_connect_sc
+                0x0000000000000000      0x152 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_connect
+                0x0000000000000000       0x14 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_disconnect
+                0x0000000000000000       0x12 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_set_mac_address
+                0x0000000000000000       0x3c build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_set_static_ip
+                0x0000000000000000       0x10 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_enable_dhcp
+                0x0000000000000000       0x1a build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_set_lsn_int
+                0x0000000000000000       0x10 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_set_cust_InfoElement
+                0x0000000000000000       0x28 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_set_scan_options
+                0x0000000000000000       0x46 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_set_scan_region
+                0x0000000000000000       0x2e build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_request_scan
+                0x0000000000000000       0x52 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_request_scan_passive
+                0x0000000000000000       0x56 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_request_scan_ssid_list
+                0x0000000000000000       0xc2 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_wps
+                0x0000000000000000       0x46 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_wps_disable
+                0x0000000000000000       0x12 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_req_client_ctrl
+                0x0000000000000000        0x4 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_req_server_init
+                0x0000000000000000        0x4 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_p2p
+                0x0000000000000000       0x3c build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_p2p_disconnect
+                0x0000000000000000       0x12 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_enable_ap_ext
+                0x0000000000000000       0x46 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_enable_ap
+                0x0000000000000000       0x6e build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_set_gains
+                0x0000000000000000       0x18 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_disable_ap
+                0x0000000000000000       0x12 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_req_curr_rssi
+                0x0000000000000000       0x12 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_send_ethernet_pkt
+                0x0000000000000000       0x6e build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_get_otp_mac_address
+                0x0000000000000000       0x3c build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_get_mac_address
+                0x0000000000000000       0x2a build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_req_scan_result
+                0x0000000000000000       0x2c build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_get_num_ap_found
+                0x0000000000000000        0x6 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_get_sleep_mode
+                0x0000000000000000        0x6 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_set_sleep_mode
+                0x0000000000000000       0x4c build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_request_sleep
+                0x0000000000000000       0x42 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_set_device_name
+                0x0000000000000000       0x42 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_configure_sntp
+                0x0000000000000000       0x62 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_get_firmware_version
+                0x0000000000000000       0x34 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_init_start
+                0x0000000000000000       0x66 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_init
+                0x0000000000000000       0x1a build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_start_provision_mode_ext
+                0x0000000000000000       0xb2 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_start_provision_mode
+                0x0000000000000000       0x6e build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_stop_provision_mode
+                0x0000000000000000       0x12 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_get_connection_info
+                0x0000000000000000       0x12 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_set_system_time
+                0x0000000000000000       0x32 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_get_system_time
+                0x0000000000000000       0x12 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_enable_sntp
+                0x0000000000000000       0x1a build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_set_power_profile
+                0x0000000000000000       0x2c build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_set_tx_power
+                0x0000000000000000       0x2c build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_set_gain_table_idx
+                0x0000000000000000       0x2c build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_enable_firmware_logs
+                0x0000000000000000       0x2c build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_set_battery_voltage
+                0x0000000000000000       0x36 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_prng_get_random_bytes
+                0x0000000000000000       0x52 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_conf_auto_rate
+                0x0000000000000000       0x10 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_get_state
+                0x0000000000000000        0x6 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_enable_roaming
+                0x0000000000000000       0x38 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_disable_roaming
+                0x0000000000000000       0x2c build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .data.WiFiCbTable
+                0x0000000000000000       0x2d build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .bss.genuPsMode
+                0x0000000000000000        0x1 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .bss.gu8scanInProgress
+                0x0000000000000000        0x1 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .bss.gpfAppWifiCb
+                0x0000000000000000        0x2 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .bss.gu8WifiState
+                0x0000000000000000        0x1 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .bss.gu8ChNum  0x0000000000000000        0x1 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .debug_info    0x0000000000000000     0x59ea build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .debug_abbrev  0x0000000000000000      0x342 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .debug_loc     0x0000000000000000     0x240e build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .debug_aranges
+                0x0000000000000000      0x248 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .debug_ranges  0x0000000000000000      0x298 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .debug_line    0x0000000000000000     0x1241 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .debug_str     0x0000000000000000      0x428 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .comment       0x0000000000000000       0x30 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .debug_frame   0x0000000000000000      0x898 build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/winc/m2m/m2m_periph.o
+ .data          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/winc/m2m/m2m_periph.o
+ .bss           0x0000000000000000        0x0 build/default/debug/mcc_generated_files/winc/m2m/m2m_periph.o
+ .debug_info    0x0000000000000000      0x265 build/default/debug/mcc_generated_files/winc/m2m/m2m_periph.o
+ .debug_abbrev  0x0000000000000000       0x1b build/default/debug/mcc_generated_files/winc/m2m/m2m_periph.o
+ .debug_aranges
+                0x0000000000000000       0x18 build/default/debug/mcc_generated_files/winc/m2m/m2m_periph.o
+ .debug_line    0x0000000000000000       0x1a build/default/debug/mcc_generated_files/winc/m2m/m2m_periph.o
+ .debug_str     0x0000000000000000        0x0 build/default/debug/mcc_generated_files/winc/m2m/m2m_periph.o
+ .comment       0x0000000000000000       0x30 build/default/debug/mcc_generated_files/winc/m2m/m2m_periph.o
+ .text          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/winc/m2m/m2m_ota.o
+ .data          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/winc/m2m/m2m_ota.o
+ .bss           0x0000000000000000        0x0 build/default/debug/mcc_generated_files/winc/m2m/m2m_ota.o
+ .text.m2m_ota_cb
+                0x0000000000000000      0x186 build/default/debug/mcc_generated_files/winc/m2m/m2m_ota.o
+ .text.m2m_ota_init
+                0x0000000000000000       0x22 build/default/debug/mcc_generated_files/winc/m2m/m2m_ota.o
+ .text.m2m_ota_notif_set_url
+                0x0000000000000000       0x1a build/default/debug/mcc_generated_files/winc/m2m/m2m_ota.o
+ .text.m2m_ota_notif_check_for_update
+                0x0000000000000000       0x12 build/default/debug/mcc_generated_files/winc/m2m/m2m_ota.o
+ .text.m2m_ota_notif_sched
+                0x0000000000000000       0x12 build/default/debug/mcc_generated_files/winc/m2m/m2m_ota.o
+ .text.m2m_ota_start_update
+                0x0000000000000000       0x1a build/default/debug/mcc_generated_files/winc/m2m/m2m_ota.o
+ .text.m2m_ota_rollback
+                0x0000000000000000       0x12 build/default/debug/mcc_generated_files/winc/m2m/m2m_ota.o
+ .text.m2m_ota_abort
+                0x0000000000000000       0x12 build/default/debug/mcc_generated_files/winc/m2m/m2m_ota.o
+ .text.m2m_ota_switch_firmware
+                0x0000000000000000       0x12 build/default/debug/mcc_generated_files/winc/m2m/m2m_ota.o
+ .text.m2m_ota_get_firmware_version
+                0x0000000000000000       0x32 build/default/debug/mcc_generated_files/winc/m2m/m2m_ota.o
+ .text.m2m_ota_host_file_get
+                0x0000000000000000       0x60 build/default/debug/mcc_generated_files/winc/m2m/m2m_ota.o
+ .text.m2m_ota_host_file_read_hif
+                0x0000000000000000       0x5e build/default/debug/mcc_generated_files/winc/m2m/m2m_ota.o
+ .text.m2m_ota_host_file_read_spi
+                0x0000000000000000      0x140 build/default/debug/mcc_generated_files/winc/m2m/m2m_ota.o
+ .text.m2m_ota_host_file_erase
+                0x0000000000000000       0x3c build/default/debug/mcc_generated_files/winc/m2m/m2m_ota.o
+ .bss.u32FlashHFDSize.3506
+                0x0000000000000000        0x4 build/default/debug/mcc_generated_files/winc/m2m/m2m_ota.o
+ .bss.u32FlashHFDStart.3505
+                0x0000000000000000        0x4 build/default/debug/mcc_generated_files/winc/m2m/m2m_ota.o
+ .data.gu8CurrFileHandlerID
+                0x0000000000000000        0x1 build/default/debug/mcc_generated_files/winc/m2m/m2m_ota.o
+ .bss.FileBlock
+                0x0000000000000000        0x8 build/default/debug/mcc_generated_files/winc/m2m/m2m_ota.o
+ .bss.gpfHFDEraseCb
+                0x0000000000000000        0x2 build/default/debug/mcc_generated_files/winc/m2m/m2m_ota.o
+ .bss.gpfHFDReadCb
+                0x0000000000000000        0x2 build/default/debug/mcc_generated_files/winc/m2m/m2m_ota.o
+ .bss.gpfHFDGetCb
+                0x0000000000000000        0x2 build/default/debug/mcc_generated_files/winc/m2m/m2m_ota.o
+ .bss.gpfOtaNotifCb
+                0x0000000000000000        0x2 build/default/debug/mcc_generated_files/winc/m2m/m2m_ota.o
+ .bss.gpfOtaUpdateCb
+                0x0000000000000000        0x2 build/default/debug/mcc_generated_files/winc/m2m/m2m_ota.o
+ .debug_info    0x0000000000000000     0x1903 build/default/debug/mcc_generated_files/winc/m2m/m2m_ota.o
+ .debug_abbrev  0x0000000000000000      0x240 build/default/debug/mcc_generated_files/winc/m2m/m2m_ota.o
+ .debug_loc     0x0000000000000000      0xa54 build/default/debug/mcc_generated_files/winc/m2m/m2m_ota.o
+ .debug_aranges
+                0x0000000000000000       0x88 build/default/debug/mcc_generated_files/winc/m2m/m2m_ota.o
+ .debug_ranges  0x0000000000000000       0x78 build/default/debug/mcc_generated_files/winc/m2m/m2m_ota.o
+ .debug_line    0x0000000000000000      0x558 build/default/debug/mcc_generated_files/winc/m2m/m2m_ota.o
+ .debug_str     0x0000000000000000      0x11b build/default/debug/mcc_generated_files/winc/m2m/m2m_ota.o
+ .comment       0x0000000000000000       0x30 build/default/debug/mcc_generated_files/winc/m2m/m2m_ota.o
+ .debug_frame   0x0000000000000000      0x17c build/default/debug/mcc_generated_files/winc/m2m/m2m_ota.o
+ .text          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/winc/m2m/m2m_fwinfo.o
+ .data          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/winc/m2m/m2m_fwinfo.o
+ .bss           0x0000000000000000        0x0 build/default/debug/mcc_generated_files/winc/m2m/m2m_fwinfo.o
+ .text.m2m_fwinfo_version_check
+                0x0000000000000000       0x74 build/default/debug/mcc_generated_files/winc/m2m/m2m_fwinfo.o
+ .text.m2m_fwinfo_get_firmware_info
+                0x0000000000000000       0xbc build/default/debug/mcc_generated_files/winc/m2m/m2m_fwinfo.o
+ .debug_info    0x0000000000000000      0x668 build/default/debug/mcc_generated_files/winc/m2m/m2m_fwinfo.o
+ .debug_abbrev  0x0000000000000000      0x141 build/default/debug/mcc_generated_files/winc/m2m/m2m_fwinfo.o
+ .debug_loc     0x0000000000000000      0x228 build/default/debug/mcc_generated_files/winc/m2m/m2m_fwinfo.o
+ .debug_aranges
+                0x0000000000000000       0x28 build/default/debug/mcc_generated_files/winc/m2m/m2m_fwinfo.o
+ .debug_ranges  0x0000000000000000       0x18 build/default/debug/mcc_generated_files/winc/m2m/m2m_fwinfo.o
+ .debug_line    0x0000000000000000      0x1ee build/default/debug/mcc_generated_files/winc/m2m/m2m_fwinfo.o
+ .debug_str     0x0000000000000000       0x2f build/default/debug/mcc_generated_files/winc/m2m/m2m_fwinfo.o
+ .comment       0x0000000000000000       0x30 build/default/debug/mcc_generated_files/winc/m2m/m2m_fwinfo.o
+ .debug_frame   0x0000000000000000       0x54 build/default/debug/mcc_generated_files/winc/m2m/m2m_fwinfo.o
+ .text          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/winc/m2m/m2m_crypto.o
+ .data          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/winc/m2m/m2m_crypto.o
+ .bss           0x0000000000000000        0x0 build/default/debug/mcc_generated_files/winc/m2m/m2m_crypto.o
+ .debug_info    0x0000000000000000      0x265 build/default/debug/mcc_generated_files/winc/m2m/m2m_crypto.o
+ .debug_abbrev  0x0000000000000000       0x1b build/default/debug/mcc_generated_files/winc/m2m/m2m_crypto.o
+ .debug_aranges
+                0x0000000000000000       0x18 build/default/debug/mcc_generated_files/winc/m2m/m2m_crypto.o
+ .debug_line    0x0000000000000000       0x1a build/default/debug/mcc_generated_files/winc/m2m/m2m_crypto.o
+ .debug_str     0x0000000000000000        0x0 build/default/debug/mcc_generated_files/winc/m2m/m2m_crypto.o
+ .comment       0x0000000000000000       0x30 build/default/debug/mcc_generated_files/winc/m2m/m2m_crypto.o
+ .text          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/winc/socket/socket.o
+ .data          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/winc/socket/socket.o
+ .bss           0x0000000000000000        0x0 build/default/debug/mcc_generated_files/winc/socket/socket.o
+ .text.m2m_ip_cb
+                0x0000000000000000      0x510 build/default/debug/mcc_generated_files/winc/socket/socket.o
+ .text.socketInit
+                0x0000000000000000       0x26 build/default/debug/mcc_generated_files/winc/socket/socket.o
+ .text.socketDeinit
+                0x0000000000000000       0x2c build/default/debug/mcc_generated_files/winc/socket/socket.o
+ .text.registerSocketCallback
+                0x0000000000000000       0x12 build/default/debug/mcc_generated_files/winc/socket/socket.o
+ .text.registerSocketEventCallback
+                0x0000000000000000        0xa build/default/debug/mcc_generated_files/winc/socket/socket.o
+ .text.registerSocketResolveCallback
+                0x0000000000000000        0xa build/default/debug/mcc_generated_files/winc/socket/socket.o
+ .text.socket   0x0000000000000000      0x19c build/default/debug/mcc_generated_files/winc/socket/socket.o
+ .text.bind     0x0000000000000000       0xb6 build/default/debug/mcc_generated_files/winc/socket/socket.o
+ .text.listen   0x0000000000000000       0x74 build/default/debug/mcc_generated_files/winc/socket/socket.o
+ .text.accept   0x0000000000000000       0x22 build/default/debug/mcc_generated_files/winc/socket/socket.o
+ .text.connect  0x0000000000000000       0xb8 build/default/debug/mcc_generated_files/winc/socket/socket.o
+ .text.send     0x0000000000000000      0x100 build/default/debug/mcc_generated_files/winc/socket/socket.o
+ .text.sendto   0x0000000000000000       0xf8 build/default/debug/mcc_generated_files/winc/socket/socket.o
+ .text.recv     0x0000000000000000      0x10c build/default/debug/mcc_generated_files/winc/socket/socket.o
+ .text.close    0x0000000000000000       0x9c build/default/debug/mcc_generated_files/winc/socket/socket.o
+ .text.recvfrom
+                0x0000000000000000      0x100 build/default/debug/mcc_generated_files/winc/socket/socket.o
+ .text.inet_addr
+                0x0000000000000000      0x186 build/default/debug/mcc_generated_files/winc/socket/socket.o
+ .text.inet_ntop
+                0x0000000000000000       0xce build/default/debug/mcc_generated_files/winc/socket/socket.o
+ .text.gethostbyname
+                0x0000000000000000       0x32 build/default/debug/mcc_generated_files/winc/socket/socket.o
+ .text.setsockopt
+                0x0000000000000000      0x214 build/default/debug/mcc_generated_files/winc/socket/socket.o
+ .text.getsockopt
+                0x0000000000000000        0x4 build/default/debug/mcc_generated_files/winc/socket/socket.o
+ .text.m2m_ping_req
+                0x0000000000000000       0x98 build/default/debug/mcc_generated_files/winc/socket/socket.o
+ .bss.u8NextUdpSock.3534
+                0x0000000000000000        0x1 build/default/debug/mcc_generated_files/winc/socket/socket.o
+ .bss.u8NextTcpSock.3533
+                0x0000000000000000        0x1 build/default/debug/mcc_generated_files/winc/socket/socket.o
+ .bss.gu32PingId
+                0x0000000000000000        0x4 build/default/debug/mcc_generated_files/winc/socket/socket.o
+ .bss.gfpPingCb
+                0x0000000000000000        0x2 build/default/debug/mcc_generated_files/winc/socket/socket.o
+ .bss.gbSocketInit
+                0x0000000000000000        0x1 build/default/debug/mcc_generated_files/winc/socket/socket.o
+ .bss.gpfAppResolveCb
+                0x0000000000000000        0x2 build/default/debug/mcc_generated_files/winc/socket/socket.o
+ .bss.gpfAppSocketCb
+                0x0000000000000000        0x2 build/default/debug/mcc_generated_files/winc/socket/socket.o
+ .bss.gu16SessionID
+                0x0000000000000000        0x2 build/default/debug/mcc_generated_files/winc/socket/socket.o
+ .bss.gastrSockets
+                0x0000000000000000       0x79 build/default/debug/mcc_generated_files/winc/socket/socket.o
+ .debug_info    0x0000000000000000     0x254f build/default/debug/mcc_generated_files/winc/socket/socket.o
+ .debug_abbrev  0x0000000000000000      0x344 build/default/debug/mcc_generated_files/winc/socket/socket.o
+ .debug_loc     0x0000000000000000     0x2173 build/default/debug/mcc_generated_files/winc/socket/socket.o
+ .debug_aranges
+                0x0000000000000000       0xc8 build/default/debug/mcc_generated_files/winc/socket/socket.o
+ .debug_ranges  0x0000000000000000      0x118 build/default/debug/mcc_generated_files/winc/socket/socket.o
+ .debug_line    0x0000000000000000      0xe51 build/default/debug/mcc_generated_files/winc/socket/socket.o
+ .debug_str     0x0000000000000000      0x163 build/default/debug/mcc_generated_files/winc/socket/socket.o
+ .comment       0x0000000000000000       0x30 build/default/debug/mcc_generated_files/winc/socket/socket.o
+ .debug_frame   0x0000000000000000      0x368 build/default/debug/mcc_generated_files/winc/socket/socket.o
+ .text          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/winc/spi_flash/flexible_flash.o
+ .data          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/winc/spi_flash/flexible_flash.o
+ .bss           0x0000000000000000        0x0 build/default/debug/mcc_generated_files/winc/spi_flash/flexible_flash.o
+ .text.spi_flexible_flash_find_section
+                0x0000000000000000      0x138 build/default/debug/mcc_generated_files/winc/spi_flash/flexible_flash.o
+ .debug_info    0x0000000000000000      0x451 build/default/debug/mcc_generated_files/winc/spi_flash/flexible_flash.o
+ .debug_abbrev  0x0000000000000000       0xd3 build/default/debug/mcc_generated_files/winc/spi_flash/flexible_flash.o
+ .debug_loc     0x0000000000000000      0x227 build/default/debug/mcc_generated_files/winc/spi_flash/flexible_flash.o
+ .debug_aranges
+                0x0000000000000000       0x20 build/default/debug/mcc_generated_files/winc/spi_flash/flexible_flash.o
+ .debug_ranges  0x0000000000000000       0x10 build/default/debug/mcc_generated_files/winc/spi_flash/flexible_flash.o
+ .debug_line    0x0000000000000000      0x120 build/default/debug/mcc_generated_files/winc/spi_flash/flexible_flash.o
+ .debug_str     0x0000000000000000        0xf build/default/debug/mcc_generated_files/winc/spi_flash/flexible_flash.o
+ .comment       0x0000000000000000       0x30 build/default/debug/mcc_generated_files/winc/spi_flash/flexible_flash.o
+ .debug_frame   0x0000000000000000       0x7c build/default/debug/mcc_generated_files/winc/spi_flash/flexible_flash.o
+ .text          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/winc/spi_flash/spi_flash.o
+ .data          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/winc/spi_flash/spi_flash.o
+ .bss           0x0000000000000000        0x0 build/default/debug/mcc_generated_files/winc/spi_flash/spi_flash.o
+ .text.spi_flash_write_enable
+                0x0000000000000000       0xa6 build/default/debug/mcc_generated_files/winc/spi_flash/spi_flash.o
+ .text.spi_flash_read_internal
+                0x0000000000000000      0x156 build/default/debug/mcc_generated_files/winc/spi_flash/spi_flash.o
+ .text.spi_flash_read_status_reg
+                0x0000000000000000       0xd4 build/default/debug/mcc_generated_files/winc/spi_flash/spi_flash.o
+ .text.spi_flash_pp
+                0x0000000000000000      0x1f2 build/default/debug/mcc_generated_files/winc/spi_flash/spi_flash.o
+ .text.spi_flash_enable
+                0x0000000000000000      0x160 build/default/debug/mcc_generated_files/winc/spi_flash/spi_flash.o
+ .text.spi_flash_read
+                0x0000000000000000       0x8e build/default/debug/mcc_generated_files/winc/spi_flash/spi_flash.o
+ .text.spi_flash_write
+                0x0000000000000000       0xfa build/default/debug/mcc_generated_files/winc/spi_flash/spi_flash.o
+ .text.spi_flash_erase
+                0x0000000000000000      0x1a4 build/default/debug/mcc_generated_files/winc/spi_flash/spi_flash.o
+ .text.spi_flash_get_size
+                0x0000000000000000      0x14e build/default/debug/mcc_generated_files/winc/spi_flash/spi_flash.o
+ .bss.gu32InternalFlashSize
+                0x0000000000000000        0x4 build/default/debug/mcc_generated_files/winc/spi_flash/spi_flash.o
+ .debug_info    0x0000000000000000     0x1570 build/default/debug/mcc_generated_files/winc/spi_flash/spi_flash.o
+ .debug_abbrev  0x0000000000000000      0x1d1 build/default/debug/mcc_generated_files/winc/spi_flash/spi_flash.o
+ .debug_loc     0x0000000000000000      0x732 build/default/debug/mcc_generated_files/winc/spi_flash/spi_flash.o
+ .debug_aranges
+                0x0000000000000000       0x60 build/default/debug/mcc_generated_files/winc/spi_flash/spi_flash.o
+ .debug_ranges  0x0000000000000000       0x50 build/default/debug/mcc_generated_files/winc/spi_flash/spi_flash.o
+ .debug_line    0x0000000000000000      0x514 build/default/debug/mcc_generated_files/winc/spi_flash/spi_flash.o
+ .debug_str     0x0000000000000000       0xbd build/default/debug/mcc_generated_files/winc/spi_flash/spi_flash.o
+ .comment       0x0000000000000000       0x30 build/default/debug/mcc_generated_files/winc/spi_flash/spi_flash.o
+ .debug_frame   0x0000000000000000      0x26c build/default/debug/mcc_generated_files/winc/spi_flash/spi_flash.o
+ .text          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/device_config.o
+ .data          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/device_config.o
+ .bss           0x0000000000000000        0x0 build/default/debug/mcc_generated_files/device_config.o
+ .text          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/mcc.o
+ .data          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/mcc.o
+ .bss           0x0000000000000000        0x0 build/default/debug/mcc_generated_files/mcc.o
+ .text          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/delay.o
+ .data          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/delay.o
+ .bss           0x0000000000000000        0x0 build/default/debug/mcc_generated_files/delay.o
+ .text.DELAY_microseconds
+                0x0000000000000000       0x30 build/default/debug/mcc_generated_files/delay.o
+ .text          0x0000000000000000        0x0 build/default/debug/network/network.o
+ .data          0x0000000000000000        0x0 build/default/debug/network/network.o
+ .bss           0x0000000000000000        0x0 build/default/debug/network/network.o
+ .text.NetworkIF_Init
+                0x0000000000000000       0x44 build/default/debug/network/network.o
+ .text.NetworkIF_DeInit
+                0x0000000000000000        0x2 build/default/debug/network/network.o
+ .text.Network_TCPServerInit
+                0x0000000000000000       0x34 build/default/debug/network/network.o
+ .text.Network_TCPServerDeInit
+                0x0000000000000000        0x2 build/default/debug/network/network.o
+ .debug_info    0x0000000000000000      0x803 build/default/debug/network/network.o
+ .debug_abbrev  0x0000000000000000       0xd8 build/default/debug/network/network.o
+ .debug_loc     0x0000000000000000       0x98 build/default/debug/network/network.o
+ .debug_aranges
+                0x0000000000000000       0x38 build/default/debug/network/network.o
+ .debug_ranges  0x0000000000000000       0x28 build/default/debug/network/network.o
+ .debug_line    0x0000000000000000      0x15a build/default/debug/network/network.o
+ .debug_str     0x0000000000000000        0xa build/default/debug/network/network.o
+ .comment       0x0000000000000000       0x30 build/default/debug/network/network.o
+ .debug_frame   0x0000000000000000       0x54 build/default/debug/network/network.o
+ .text          0x0000000000000000        0x0 build/default/debug/network/network_winc1500.o
+ .data          0x0000000000000000        0x0 build/default/debug/network/network_winc1500.o
+ .bss           0x0000000000000000        0x0 build/default/debug/network/network_winc1500.o
+ .rodata        0x0000000000000000      0x171 build/default/debug/network/network_winc1500.o
+ .text.Wifi_EventCallback
+                0x0000000000000000      0x232 build/default/debug/network/network_winc1500.o
+ .text.WINC1500_Init
+                0x0000000000000000       0x58 build/default/debug/network/network_winc1500.o
+ .text.WINC1500_DeInit
+                0x0000000000000000       0x14 build/default/debug/network/network_winc1500.o
+ .text.WINC1500_StartAP
+                0x0000000000000000       0x70 build/default/debug/network/network_winc1500.o
+ .text.WINC1500_StartClient
+                0x0000000000000000       0x4a build/default/debug/network/network_winc1500.o
+ .text.WINC1500_StopClient
+                0x0000000000000000        0xe build/default/debug/network/network_winc1500.o
+ .text.WINC1500_EventHandle
+                0x0000000000000000        0xc build/default/debug/network/network_winc1500.o
+ .text.WINC1500_GetStatus
+                0x0000000000000000        0x6 build/default/debug/network/network_winc1500.o
+ .text.WINC1500_GetIP
+                0x0000000000000000       0x1e build/default/debug/network/network_winc1500.o
+ .rodata.__FUNCTION__.5357
+                0x0000000000000000       0x13 build/default/debug/network/network_winc1500.o
+ .rodata.__FUNCTION__.5326
+                0x0000000000000000       0x15 build/default/debug/network/network_winc1500.o
+ .rodata.__FUNCTION__.5322
+                0x0000000000000000       0x11 build/default/debug/network/network_winc1500.o
+ .rodata.__FUNCTION__.5315
+                0x0000000000000000        0xe build/default/debug/network/network_winc1500.o
+ .data.apConfig
+                0x0000000000000000       0x88 build/default/debug/network/network_winc1500.o
+ .data.status   0x0000000000000000        0x1 build/default/debug/network/network_winc1500.o
+ .debug_info    0x0000000000000000     0x1841 build/default/debug/network/network_winc1500.o
+ .debug_abbrev  0x0000000000000000      0x22c build/default/debug/network/network_winc1500.o
+ .debug_loc     0x0000000000000000      0x2d3 build/default/debug/network/network_winc1500.o
+ .debug_aranges
+                0x0000000000000000       0x60 build/default/debug/network/network_winc1500.o
+ .debug_ranges  0x0000000000000000       0x50 build/default/debug/network/network_winc1500.o
+ .debug_line    0x0000000000000000      0x34b build/default/debug/network/network_winc1500.o
+ .debug_str     0x0000000000000000      0x10d build/default/debug/network/network_winc1500.o
+ .comment       0x0000000000000000       0x30 build/default/debug/network/network_winc1500.o
+ .debug_frame   0x0000000000000000      0x12c build/default/debug/network/network_winc1500.o
+ COMMON         0x0000000000000000        0xf build/default/debug/network/network_winc1500.o
+ .text          0x0000000000000000        0x0 build/default/debug/network/winc1500_tcp_server.o
+ .data          0x0000000000000000        0x0 build/default/debug/network/winc1500_tcp_server.o
+ .bss           0x0000000000000000        0x0 build/default/debug/network/winc1500_tcp_server.o
+ .rodata        0x0000000000000000      0x129 build/default/debug/network/winc1500_tcp_server.o
+ .text.WINC1500_TCPServerOpen
+                0x0000000000000000      0x126 build/default/debug/network/winc1500_tcp_server.o
+ .text.WINC1500_TCPServerClose
+                0x0000000000000000       0x3a build/default/debug/network/winc1500_tcp_server.o
+ .text.WINC1500_TCPServerWrite
+                0x0000000000000000       0x1c build/default/debug/network/winc1500_tcp_server.o
+ .text.WINC1500_TCPServerRead
+                0x0000000000000000       0x26 build/default/debug/network/winc1500_tcp_server.o
+ .text.socket_cb
+                0x0000000000000000      0x1ce build/default/debug/network/winc1500_tcp_server.o
+ .text.WINC1500_TCPServerSetCallback
+                0x0000000000000000        0xc build/default/debug/network/winc1500_tcp_server.o
+ .text.WINC1500_TCPServerGetStatus
+                0x0000000000000000        0x6 build/default/debug/network/winc1500_tcp_server.o
+ .rodata.__FUNCTION__.5323
+                0x0000000000000000       0x17 build/default/debug/network/winc1500_tcp_server.o
+ .bss.status    0x0000000000000000        0x1 build/default/debug/network/winc1500_tcp_server.o
+ .bss.addr      0x0000000000000000       0x10 build/default/debug/network/winc1500_tcp_server.o
+ .debug_info    0x0000000000000000      0xe53 build/default/debug/network/winc1500_tcp_server.o
+ .debug_abbrev  0x0000000000000000      0x287 build/default/debug/network/winc1500_tcp_server.o
+ .debug_loc     0x0000000000000000      0x4c0 build/default/debug/network/winc1500_tcp_server.o
+ .debug_aranges
+                0x0000000000000000       0x50 build/default/debug/network/winc1500_tcp_server.o
+ .debug_ranges  0x0000000000000000       0x40 build/default/debug/network/winc1500_tcp_server.o
+ .debug_line    0x0000000000000000      0x360 build/default/debug/network/winc1500_tcp_server.o
+ .debug_str     0x0000000000000000       0x20 build/default/debug/network/winc1500_tcp_server.o
+ .comment       0x0000000000000000       0x30 build/default/debug/network/winc1500_tcp_server.o
+ .debug_frame   0x0000000000000000      0x178 build/default/debug/network/winc1500_tcp_server.o
+ COMMON         0x0000000000000000        0xa build/default/debug/network/winc1500_tcp_server.o
+ .text          0x0000000000000000        0x0 build/default/debug/scheduler/atmega4808_rtc.o
+ .data          0x0000000000000000        0x0 build/default/debug/scheduler/atmega4808_rtc.o
+ .bss           0x0000000000000000        0x0 build/default/debug/scheduler/atmega4808_rtc.o
+ .text.ATMEGA4808_RTC_DeInit
+                0x0000000000000000       0x20 build/default/debug/scheduler/atmega4808_rtc.o
+ .text.ATMEGA4808_RTC_GetTicks
+                0x0000000000000000       0x12 build/default/debug/scheduler/atmega4808_rtc.o
+ .text.ATMEGA4808_RTC_SetTicks
+                0x0000000000000000       0x12 build/default/debug/scheduler/atmega4808_rtc.o
+ .text          0x0000000000000000        0x0 build/default/debug/scheduler/scheduler.o
+ .data          0x0000000000000000        0x0 build/default/debug/scheduler/scheduler.o
+ .bss           0x0000000000000000        0x0 build/default/debug/scheduler/scheduler.o
+ .rodata        0x0000000000000000       0x42 build/default/debug/scheduler/scheduler.o
+ .text.Scheduler_Init
+                0x0000000000000000       0x50 build/default/debug/scheduler/scheduler.o
+ .text.Scheduler_Run
+                0x0000000000000000       0xb6 build/default/debug/scheduler/scheduler.o
+ .bss.NumTasks  0x0000000000000000        0x1 build/default/debug/scheduler/scheduler.o
+ .bss.TaskIndex
+                0x0000000000000000        0x1 build/default/debug/scheduler/scheduler.o
+ .bss.TaskPointer
+                0x0000000000000000        0x2 build/default/debug/scheduler/scheduler.o
+ .bss.Tick      0x0000000000000000        0x4 build/default/debug/scheduler/scheduler.o
+ .debug_info    0x0000000000000000      0x47b build/default/debug/scheduler/scheduler.o
+ .debug_abbrev  0x0000000000000000      0x102 build/default/debug/scheduler/scheduler.o
+ .debug_loc     0x0000000000000000       0x1e build/default/debug/scheduler/scheduler.o
+ .debug_aranges
+                0x0000000000000000       0x28 build/default/debug/scheduler/scheduler.o
+ .debug_ranges  0x0000000000000000       0x18 build/default/debug/scheduler/scheduler.o
+ .debug_line    0x0000000000000000      0x13d build/default/debug/scheduler/scheduler.o
+ .debug_str     0x0000000000000000       0x6a build/default/debug/scheduler/scheduler.o
+ .comment       0x0000000000000000       0x30 build/default/debug/scheduler/scheduler.o
+ .debug_frame   0x0000000000000000       0x58 build/default/debug/scheduler/scheduler.o
+ .text          0x0000000000000000        0x0 build/default/debug/scheduler/scheduler_conf.o
+ .data          0x0000000000000000        0x0 build/default/debug/scheduler/scheduler_conf.o
+ .bss           0x0000000000000000        0x0 build/default/debug/scheduler/scheduler_conf.o
+ .text.Task_ConfigGet
+                0x0000000000000000        0x6 build/default/debug/scheduler/scheduler_conf.o
+ .text.Task_NumTasksGet
+                0x0000000000000000        0x4 build/default/debug/scheduler/scheduler_conf.o
+ .bss.Tasks     0x0000000000000000        0x0 build/default/debug/scheduler/scheduler_conf.o
+ .debug_info    0x0000000000000000      0x3cf build/default/debug/scheduler/scheduler_conf.o
+ .debug_abbrev  0x0000000000000000       0xbc build/default/debug/scheduler/scheduler_conf.o
+ .debug_aranges
+                0x0000000000000000       0x28 build/default/debug/scheduler/scheduler_conf.o
+ .debug_ranges  0x0000000000000000       0x18 build/default/debug/scheduler/scheduler_conf.o
+ .debug_line    0x0000000000000000       0xd1 build/default/debug/scheduler/scheduler_conf.o
+ .debug_str     0x0000000000000000        0x0 build/default/debug/scheduler/scheduler_conf.o
+ .comment       0x0000000000000000       0x30 build/default/debug/scheduler/scheduler_conf.o
+ .debug_frame   0x0000000000000000       0x34 build/default/debug/scheduler/scheduler_conf.o
+ .text          0x0000000000000000        0x0 build/default/debug/Servo/atmega4808_pwm.o
+ .data          0x0000000000000000        0x0 build/default/debug/Servo/atmega4808_pwm.o
+ .bss           0x0000000000000000        0x0 build/default/debug/Servo/atmega4808_pwm.o
+ .text.ATMEGA4808_PWM_DeInit
+                0x0000000000000000        0x6 build/default/debug/Servo/atmega4808_pwm.o
+ .text          0x0000000000000000        0x0 build/default/debug/Servo/servo.o
+ .data          0x0000000000000000        0x0 build/default/debug/Servo/servo.o
+ .bss           0x0000000000000000        0x0 build/default/debug/Servo/servo.o
+ .text.ServoStop
+                0x0000000000000000        0x6 build/default/debug/Servo/servo.o
+ .text          0x0000000000000000        0x0 build/default/debug/utility/ring_buffer.o
+ .data          0x0000000000000000        0x0 build/default/debug/utility/ring_buffer.o
+ .bss           0x0000000000000000        0x0 build/default/debug/utility/ring_buffer.o
+ .text.RingBuffer_Init
+                0x0000000000000000       0x3e build/default/debug/utility/ring_buffer.o
+ .text.RingBuffer_IsEmpty
+                0x0000000000000000       0x10 build/default/debug/utility/ring_buffer.o
+ .text.RingBuffer_IsFull
+                0x0000000000000000       0x12 build/default/debug/utility/ring_buffer.o
+ .text.RingBuffer_Push
+                0x0000000000000000       0x72 build/default/debug/utility/ring_buffer.o
+ .text.RingBuffer_Pop
+                0x0000000000000000       0x66 build/default/debug/utility/ring_buffer.o
+ .text.RingBuffer_Deinit
+                0x0000000000000000       0x12 build/default/debug/utility/ring_buffer.o
+ .text.RingBuffer_Reset
+                0x0000000000000000       0x1c build/default/debug/utility/ring_buffer.o
+ .text.RingBuffer_GetAvailableMemory
+                0x0000000000000000       0x10 build/default/debug/utility/ring_buffer.o
+ .debug_info    0x0000000000000000      0x6b8 build/default/debug/utility/ring_buffer.o
+ .debug_abbrev  0x0000000000000000      0x116 build/default/debug/utility/ring_buffer.o
+ .debug_loc     0x0000000000000000      0x2cb build/default/debug/utility/ring_buffer.o
+ .debug_aranges
+                0x0000000000000000       0x58 build/default/debug/utility/ring_buffer.o
+ .debug_ranges  0x0000000000000000       0x48 build/default/debug/utility/ring_buffer.o
+ .debug_line    0x0000000000000000      0x256 build/default/debug/utility/ring_buffer.o
+ .debug_str     0x0000000000000000        0x6 build/default/debug/utility/ring_buffer.o
+ .comment       0x0000000000000000       0x30 build/default/debug/utility/ring_buffer.o
+ .debug_frame   0x0000000000000000       0xe0 build/default/debug/utility/ring_buffer.o
+ .text          0x0000000000000000        0x0 build/default/debug/main.o
+ .data          0x0000000000000000        0x0 build/default/debug/main.o
+ .bss           0x0000000000000000        0x0 build/default/debug/main.o
+ .text          0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_divmodhi4.o)
+ .data          0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_divmodhi4.o)
+ .bss           0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_divmodhi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_divmodhi4.o)
+ .text.libgcc.div
+                0x0000000000000000       0x28 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_divmodhi4.o)
+ .text.libgcc   0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_divmodhi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_divmodhi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_divmodhi4.o)
+ .text          0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_udivmodsi4.o)
+ .data          0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_udivmodsi4.o)
+ .bss           0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_udivmodsi4.o)
+ .text          0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_exit.o)
+ .data          0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_exit.o)
+ .bss           0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_exit.o)
+ .text.libgcc   0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_exit.o)
+ .text          0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_tablejump2.o)
+ .data          0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_tablejump2.o)
+ .bss           0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_tablejump2.o)
+ .text.libgcc   0x0000000000000000        0xc d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_tablejump2.o)
+ .text          0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_copy_data.o)
+ .data          0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_copy_data.o)
+ .bss           0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_copy_data.o)
+ .text.libgcc   0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_copy_data.o)
+ .text          0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_udivmodhi4.o)
+ .data          0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_udivmodhi4.o)
+ .bss           0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.div
+                0x0000000000000000       0x28 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_udivmodhi4.o)
+ .text          0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(malloc.o)
+ .data          0x0000000000000000        0x6 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(malloc.o)
+ .bss           0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(malloc.o)
+ .text.avrlibc  0x0000000000000000      0x242 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(malloc.o)
+ .comment       0x0000000000000000       0x2d d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(malloc.o)
+ COMMON         0x0000000000000000        0x4 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(malloc.o)
+ .text          0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(memcpy.o)
+ .data          0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(memcpy.o)
+ .bss           0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(memcpy.o)
+ .text.avrlibc  0x0000000000000000       0x12 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(memcpy.o)
+ .text          0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(memset.o)
+ .data          0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(memset.o)
+ .bss           0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(memset.o)
+ .text.avrlibc  0x0000000000000000        0xe d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(memset.o)
+ .text          0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(strcmp.o)
+ .data          0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(strcmp.o)
+ .bss           0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(strcmp.o)
+ .text.avrlibc  0x0000000000000000       0x12 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(strcmp.o)
+ .text          0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(iob.o)
+ .data          0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(iob.o)
+ .bss           0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(iob.o)
+ .text          0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(printf.o)
+ .data          0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(printf.o)
+ .bss           0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(printf.o)
+ .text          0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(vfprintf_std.o)
+ .data          0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(vfprintf_std.o)
+ .bss           0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(vfprintf_std.o)
+ .text          0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(strnlen_P.o)
+ .data          0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(strnlen_P.o)
+ .bss           0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(strnlen_P.o)
+ .text          0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(strnlen.o)
+ .data          0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(strnlen.o)
+ .bss           0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(strnlen.o)
+ .text          0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(fputc.o)
+ .data          0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(fputc.o)
+ .bss           0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(fputc.o)
+ .text          0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(ultoa_invert.o)
+ .data          0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(ultoa_invert.o)
+ .bss           0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(ultoa_invert.o)
+ .text          0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_prologue.o)
+ .data          0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_prologue.o)
+ .bss           0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_prologue.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_prologue.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_prologue.o)
+ .text.libgcc   0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_prologue.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_prologue.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_prologue.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_prologue.o)
+ .text          0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_epilogue.o)
+ .data          0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_epilogue.o)
+ .bss           0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_epilogue.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_epilogue.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_epilogue.o)
+ .text.libgcc   0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_epilogue.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_epilogue.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_epilogue.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_epilogue.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x0000000000000000 0x000000000000c000 xr
+data             0x0000000000802800 0x0000000000001800 rw !x
+eeprom           0x0000000000810000 0x0000000000000100 rw !x
+fuse             0x0000000000820000 0x000000000000000a rw !x
+lock             0x0000000000830000 0x0000000000000400 rw !x
+signature        0x0000000000840000 0x0000000000000400 rw !x
+user_signatures  0x0000000000850000 0x0000000000000400 rw !x
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x802800
+                0x0000000000004000                __RODATA_PM_OFFSET__ = 0x4000
+LOAD D:/Toolchains/Microchip/xc8/v2.31/dfp/xc8/avr/lib/avrxmega3/crtatmega4808.o
+                0x0000000000000001                __MPLAB_BUILD = 0x1
+LOAD build/default/debug/application/application.o
+LOAD build/default/debug/application/Client_Handle.o
+LOAD build/default/debug/cli/cli.o
+LOAD build/default/debug/led/led.o
+LOAD build/default/debug/mcc_generated_files/drivers/spi_master.o
+LOAD build/default/debug/mcc_generated_files/src/pin_manager.o
+LOAD build/default/debug/mcc_generated_files/src/cpuint.o
+LOAD build/default/debug/mcc_generated_files/src/usart2.o
+LOAD build/default/debug/mcc_generated_files/src/protected_io.o
+LOAD build/default/debug/mcc_generated_files/src/spi0.o
+LOAD build/default/debug/mcc_generated_files/src/tca0.o
+LOAD build/default/debug/mcc_generated_files/src/rtc.o
+LOAD build/default/debug/mcc_generated_files/winc/driver/winc_spi.o
+LOAD build/default/debug/mcc_generated_files/winc/driver/winc_adapter.o
+LOAD build/default/debug/mcc_generated_files/winc/driver/winc_hif.o
+LOAD build/default/debug/mcc_generated_files/winc/driver/winc_asic.o
+LOAD build/default/debug/mcc_generated_files/winc/driver/winc_drv.o
+LOAD build/default/debug/mcc_generated_files/winc/m2m/m2m_ssl.o
+LOAD build/default/debug/mcc_generated_files/winc/m2m/m2m_wifi.o
+LOAD build/default/debug/mcc_generated_files/winc/m2m/m2m_periph.o
+LOAD build/default/debug/mcc_generated_files/winc/m2m/m2m_ota.o
+LOAD build/default/debug/mcc_generated_files/winc/m2m/m2m_fwinfo.o
+LOAD build/default/debug/mcc_generated_files/winc/m2m/m2m_crypto.o
+LOAD build/default/debug/mcc_generated_files/winc/socket/socket.o
+LOAD build/default/debug/mcc_generated_files/winc/spi_flash/flexible_flash.o
+LOAD build/default/debug/mcc_generated_files/winc/spi_flash/spi_flash.o
+LOAD build/default/debug/mcc_generated_files/device_config.o
+LOAD build/default/debug/mcc_generated_files/mcc.o
+LOAD build/default/debug/mcc_generated_files/delay.o
+LOAD build/default/debug/network/network.o
+LOAD build/default/debug/network/network_winc1500.o
+LOAD build/default/debug/network/winc1500_tcp_server.o
+LOAD build/default/debug/scheduler/atmega4808_rtc.o
+LOAD build/default/debug/scheduler/scheduler.o
+LOAD build/default/debug/scheduler/scheduler_conf.o
+LOAD build/default/debug/Servo/atmega4808_pwm.o
+LOAD build/default/debug/Servo/servo.o
+LOAD build/default/debug/utility/ring_buffer.o
+LOAD build/default/debug/main.o
+START GROUP
+LOAD d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a
+END GROUP
+                0x0000000000000001                __MPLAB_DEBUG = 0x1
+                0x0000000000000001                __DEBUG = 0x1
+START GROUP
+LOAD d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a
+LOAD d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a
+LOAD d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a
+LOAD D:/Toolchains/Microchip/xc8/v2.31/dfp/xc8/avr/lib/avrxmega3\libatmega4808.a
+END GROUP
+                [0x0000000000000000]                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x0000000000802800]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x802000
+                [0x000000000000c000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x100000
+                [0x0000000000001800]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x0000000000000100]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x000000000000000a]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x0000000000000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x0000000000000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x0000000000000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+                0x0000000000008000                __RODATA_PM_OFFSET__ = DEFINED (__RODATA_PM_OFFSET__)?__RODATA_PM_OFFSET__:0x8000
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x0000000000000000      0x102
+ *(.vectors)
+ .vectors       0x0000000000000000       0x90 D:/Toolchains/Microchip/xc8/v2.31/dfp/xc8/avr/lib/avrxmega3/crtatmega4808.o
+                0x0000000000000000                __vector_default
+                0x0000000000000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.dinit)
+ .dinit         0x0000000000000090       0x1d data_init
+                0x00000000000000ae                . = ALIGN (0x2)
+ *fill*         0x00000000000000ad        0x1 
+                0x00000000000000ae                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000000000000ae        0x0 linker stubs
+ *(.trampolines*)
+                0x00000000000000ae                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+                0x00000000000000ae                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000000000000ae                __ctors_start = .
+ *(.ctors)
+                0x00000000000000ae                __ctors_end = .
+                0x00000000000000ae                __dtors_start = .
+ *(.dtors)
+                0x00000000000000ae                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000000000000ae        0x0 D:/Toolchains/Microchip/xc8/v2.31/dfp/xc8/avr/lib/avrxmega3/crtatmega4808.o
+                0x00000000000000ae                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000000000000ae        0xc D:/Toolchains/Microchip/xc8/v2.31/dfp/xc8/avr/lib/avrxmega3/crtatmega4808.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000000000000ba       0x3c d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_copy_data.o)
+                0x00000000000000ba                __do_copy_data
+                0x00000000000000e8                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000000000000f6        0x8 D:/Toolchains/Microchip/xc8/v2.31/dfp/xc8/avr/lib/avrxmega3/crtatmega4808.o
+ *(.init9)
+                0x00000000000000fe                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00000000000000fe        0x0 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_exit.o)
+                0x00000000000000fe                _exit
+                0x00000000000000fe                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00000000000000fe        0x4 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_exit.o)
+ *(.fini0)
+                0x0000000000000102                _etext = .
+
+.data           0x0000000000802800        0x0 load address 0x0000000000000102
+                [!provide]                        PROVIDE (__data_start, .)
+ *(.gnu.linkonce.d*)
+                0x0000000000802800                . = ALIGN (0x2)
+                0x0000000000802800                _edata = .
+                [!provide]                        PROVIDE (__data_end, .)
+
+.bss            0x0000000000802800       0x15
+                [!provide]                        PROVIDE (__bss_start, .)
+ *(COMMON)
+ COMMON         0x0000000000802800        0xf build/default/debug/application/application.o
+                0x0000000000802800                ip
+                0x0000000000802804                version
+                0x0000000000802805                w_ptr
+                0x0000000000802807                interface
+                0x0000000000802809                server
+                0x000000000080280b                r_ptr
+                0x000000000080280d                sub_version
+                0x000000000080280e                ssub_version
+ COMMON         0x000000000080280f        0x6 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(iob.o)
+                0x000000000080280f                __iob
+                [!provide]                        PROVIDE (__bss_end, .)
+                0x0000000000000102                __data_load_start = LOADADDR (.data)
+                0x0000000000000102                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0000000000802815        0x0
+                [!provide]                        PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                        PROVIDE (__noinit_end, .)
+                0x0000000000802815                _end = .
+
+.eeprom         0x0000000000810000        0x0
+ *(.eeprom*)
+                0x0000000000810000                __eeprom_end = .
+
+.fuse           0x0000000000820000        0x9
+ *(.fuse)
+ .fuse          0x0000000000820000        0x9 build/default/debug/mcc_generated_files/device_config.o
+                0x0000000000820000                __fuse
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x5b
+ *(.comment)
+ .comment       0x0000000000000000       0x2f build/default/debug/application/application.o
+                                         0x30 (size before relaxing)
+ .comment       0x000000000000002f       0x30 build/default/debug/cli/cli.o
+ .comment       0x000000000000002f       0x30 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .comment       0x000000000000002f       0x30 build/default/debug/mcc_generated_files/src/cpuint.o
+ .comment       0x000000000000002f       0x30 build/default/debug/mcc_generated_files/src/usart2.o
+ .comment       0x000000000000002f       0x30 build/default/debug/mcc_generated_files/src/spi0.o
+ .comment       0x000000000000002f       0x30 build/default/debug/mcc_generated_files/src/tca0.o
+ .comment       0x000000000000002f       0x30 build/default/debug/mcc_generated_files/src/rtc.o
+ .comment       0x000000000000002f       0x30 build/default/debug/mcc_generated_files/device_config.o
+ .comment       0x000000000000002f       0x30 build/default/debug/mcc_generated_files/mcc.o
+ .comment       0x000000000000002f       0x30 build/default/debug/mcc_generated_files/delay.o
+ .comment       0x000000000000002f       0x30 build/default/debug/scheduler/atmega4808_rtc.o
+ .comment       0x000000000000002f       0x30 build/default/debug/Servo/atmega4808_pwm.o
+ .comment       0x000000000000002f       0x30 build/default/debug/Servo/servo.o
+ .comment       0x000000000000002f       0x30 build/default/debug/main.o
+ .comment       0x000000000000002f       0x2c d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(iob.o)
+                                         0x2d (size before relaxing)
+ .comment       0x000000000000005b       0x2d d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(printf.o)
+ .comment       0x000000000000005b       0x2d d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(vfprintf_std.o)
+ .comment       0x000000000000005b       0x2d d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(fputc.o)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x678
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x78 build/default/debug/application/application.o
+ .debug_aranges
+                0x0000000000000078       0x40 build/default/debug/cli/cli.o
+ .debug_aranges
+                0x00000000000000b8      0x160 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .debug_aranges
+                0x0000000000000218       0x20 build/default/debug/mcc_generated_files/src/cpuint.o
+ .debug_aranges
+                0x0000000000000238       0xc0 build/default/debug/mcc_generated_files/src/usart2.o
+ .debug_aranges
+                0x00000000000002f8       0x20 build/default/debug/mcc_generated_files/src/protected_io.o
+ .debug_aranges
+                0x0000000000000318       0x98 build/default/debug/mcc_generated_files/src/spi0.o
+ .debug_aranges
+                0x00000000000003b0       0xb0 build/default/debug/mcc_generated_files/src/tca0.o
+ .debug_aranges
+                0x0000000000000460       0x98 build/default/debug/mcc_generated_files/src/rtc.o
+ .debug_aranges
+                0x00000000000004f8       0x18 build/default/debug/mcc_generated_files/device_config.o
+ .debug_aranges
+                0x0000000000000510       0x48 build/default/debug/mcc_generated_files/mcc.o
+ .debug_aranges
+                0x0000000000000558       0x28 build/default/debug/mcc_generated_files/delay.o
+ .debug_aranges
+                0x0000000000000580       0x50 build/default/debug/scheduler/atmega4808_rtc.o
+ .debug_aranges
+                0x00000000000005d0       0x50 build/default/debug/Servo/atmega4808_pwm.o
+ .debug_aranges
+                0x0000000000000620       0x38 build/default/debug/Servo/servo.o
+ .debug_aranges
+                0x0000000000000658       0x20 build/default/debug/main.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0xa7c4
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000     0x229c D:/Toolchains/Microchip/xc8/v2.31/dfp/xc8/avr/lib/avrxmega3/crtatmega4808.o
+ .debug_info    0x000000000000229c      0xff7 build/default/debug/application/application.o
+ .debug_info    0x0000000000003293      0x55d build/default/debug/cli/cli.o
+ .debug_info    0x00000000000037f0     0x1435 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .debug_info    0x0000000000004c25      0x3d5 build/default/debug/mcc_generated_files/src/cpuint.o
+ .debug_info    0x0000000000004ffa      0xb0b build/default/debug/mcc_generated_files/src/usart2.o
+ .debug_info    0x0000000000005b05       0x9a build/default/debug/mcc_generated_files/src/protected_io.o
+ .debug_info    0x0000000000005b9f      0x7a1 build/default/debug/mcc_generated_files/src/spi0.o
+ .debug_info    0x0000000000006340      0xd1f build/default/debug/mcc_generated_files/src/tca0.o
+ .debug_info    0x000000000000705f      0x82f build/default/debug/mcc_generated_files/src/rtc.o
+ .debug_info    0x000000000000788e      0x7e4 build/default/debug/mcc_generated_files/device_config.o
+ .debug_info    0x0000000000008072      0x9cf build/default/debug/mcc_generated_files/mcc.o
+ .debug_info    0x0000000000008a41      0x407 build/default/debug/mcc_generated_files/delay.o
+ .debug_info    0x0000000000008e48      0x6bc build/default/debug/scheduler/atmega4808_rtc.o
+ .debug_info    0x0000000000009504      0xb08 build/default/debug/Servo/atmega4808_pwm.o
+ .debug_info    0x000000000000a00c      0x40c build/default/debug/Servo/servo.o
+ .debug_info    0x000000000000a418      0x3ac build/default/debug/main.o
+
+.debug_abbrev   0x0000000000000000     0x3641
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000     0x20c2 D:/Toolchains/Microchip/xc8/v2.31/dfp/xc8/avr/lib/avrxmega3/crtatmega4808.o
+ .debug_abbrev  0x00000000000020c2      0x287 build/default/debug/application/application.o
+ .debug_abbrev  0x0000000000002349      0x15e build/default/debug/cli/cli.o
+ .debug_abbrev  0x00000000000024a7      0x1c8 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .debug_abbrev  0x000000000000266f       0xfa build/default/debug/mcc_generated_files/src/cpuint.o
+ .debug_abbrev  0x0000000000002769      0x2c9 build/default/debug/mcc_generated_files/src/usart2.o
+ .debug_abbrev  0x0000000000002a32       0x14 build/default/debug/mcc_generated_files/src/protected_io.o
+ .debug_abbrev  0x0000000000002a46      0x1c4 build/default/debug/mcc_generated_files/src/spi0.o
+ .debug_abbrev  0x0000000000002c0a      0x19e build/default/debug/mcc_generated_files/src/tca0.o
+ .debug_abbrev  0x0000000000002da8      0x164 build/default/debug/mcc_generated_files/src/rtc.o
+ .debug_abbrev  0x0000000000002f0c       0x97 build/default/debug/mcc_generated_files/device_config.o
+ .debug_abbrev  0x0000000000002fa3      0x17b build/default/debug/mcc_generated_files/mcc.o
+ .debug_abbrev  0x000000000000311e      0x11e build/default/debug/mcc_generated_files/delay.o
+ .debug_abbrev  0x000000000000323c      0x161 build/default/debug/scheduler/atmega4808_rtc.o
+ .debug_abbrev  0x000000000000339d      0x165 build/default/debug/Servo/atmega4808_pwm.o
+ .debug_abbrev  0x0000000000003502       0xab build/default/debug/Servo/servo.o
+ .debug_abbrev  0x00000000000035ad       0x94 build/default/debug/main.o
+
+.debug_line     0x0000000000000000     0x28ad
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000      0x16f D:/Toolchains/Microchip/xc8/v2.31/dfp/xc8/avr/lib/avrxmega3/crtatmega4808.o
+ .debug_line    0x000000000000016f      0x56b build/default/debug/application/application.o
+ .debug_line    0x00000000000006da      0x1c4 build/default/debug/cli/cli.o
+ .debug_line    0x000000000000089e      0x658 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .debug_line    0x0000000000000ef6      0x161 build/default/debug/mcc_generated_files/src/cpuint.o
+ .debug_line    0x0000000000001057      0x425 build/default/debug/mcc_generated_files/src/usart2.o
+ .debug_line    0x000000000000147c       0x66 build/default/debug/mcc_generated_files/src/protected_io.o
+ .debug_line    0x00000000000014e2      0x381 build/default/debug/mcc_generated_files/src/spi0.o
+ .debug_line    0x0000000000001863      0x347 build/default/debug/mcc_generated_files/src/tca0.o
+ .debug_line    0x0000000000001baa      0x2f1 build/default/debug/mcc_generated_files/src/rtc.o
+ .debug_line    0x0000000000001e9b       0xc6 build/default/debug/mcc_generated_files/device_config.o
+ .debug_line    0x0000000000001f61      0x280 build/default/debug/mcc_generated_files/mcc.o
+ .debug_line    0x00000000000021e1      0x127 build/default/debug/mcc_generated_files/delay.o
+ .debug_line    0x0000000000002308      0x1bf build/default/debug/scheduler/atmega4808_rtc.o
+ .debug_line    0x00000000000024c7      0x1c8 build/default/debug/Servo/atmega4808_pwm.o
+ .debug_line    0x000000000000268f       0xf4 build/default/debug/Servo/servo.o
+ .debug_line    0x0000000000002783      0x12a build/default/debug/main.o
+
+.debug_frame    0x0000000000000000      0xf78
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000      0x294 build/default/debug/application/application.o
+ .debug_frame   0x0000000000000294       0x84 build/default/debug/cli/cli.o
+ .debug_frame   0x0000000000000318      0x300 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .debug_frame   0x0000000000000618       0x24 build/default/debug/mcc_generated_files/src/cpuint.o
+ .debug_frame   0x000000000000063c      0x210 build/default/debug/mcc_generated_files/src/usart2.o
+ .debug_frame   0x000000000000084c      0x114 build/default/debug/mcc_generated_files/src/spi0.o
+ .debug_frame   0x0000000000000960      0x264 build/default/debug/mcc_generated_files/src/tca0.o
+ .debug_frame   0x0000000000000bc4      0x15c build/default/debug/mcc_generated_files/src/rtc.o
+ .debug_frame   0x0000000000000d20       0x84 build/default/debug/mcc_generated_files/mcc.o
+ .debug_frame   0x0000000000000da4       0x34 build/default/debug/mcc_generated_files/delay.o
+ .debug_frame   0x0000000000000dd8       0xa4 build/default/debug/scheduler/atmega4808_rtc.o
+ .debug_frame   0x0000000000000e7c       0x84 build/default/debug/Servo/atmega4808_pwm.o
+ .debug_frame   0x0000000000000f00       0x54 build/default/debug/Servo/servo.o
+ .debug_frame   0x0000000000000f54       0x24 build/default/debug/main.o
+
+.debug_str      0x0000000000000000     0x129c
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0xecd D:/Toolchains/Microchip/xc8/v2.31/dfp/xc8/avr/lib/avrxmega3/crtatmega4808.o
+ .debug_str     0x0000000000000ecd       0xfd build/default/debug/application/application.o
+ .debug_str     0x0000000000000fca        0x0 build/default/debug/cli/cli.o
+ .debug_str     0x0000000000000fca       0x25 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .debug_str     0x0000000000000fef       0x13 build/default/debug/mcc_generated_files/src/cpuint.o
+ .debug_str     0x0000000000001002        0x0 build/default/debug/mcc_generated_files/src/usart2.o
+ .debug_str     0x0000000000001002       0x17 build/default/debug/mcc_generated_files/src/spi0.o
+ .debug_str     0x0000000000001019       0x52 build/default/debug/mcc_generated_files/src/tca0.o
+ .debug_str     0x000000000000106b        0x9 build/default/debug/mcc_generated_files/src/rtc.o
+ .debug_str     0x0000000000001074        0x0 build/default/debug/mcc_generated_files/device_config.o
+ .debug_str     0x0000000000001074       0x93 build/default/debug/mcc_generated_files/mcc.o
+ .debug_str     0x0000000000001107       0x26 build/default/debug/mcc_generated_files/delay.o
+ .debug_str     0x000000000000112d        0x0 build/default/debug/scheduler/atmega4808_rtc.o
+ .debug_str     0x000000000000112d       0x9c build/default/debug/Servo/atmega4808_pwm.o
+ .debug_str     0x00000000000011c9       0x72 build/default/debug/Servo/servo.o
+ .debug_str     0x000000000000123b       0x61 build/default/debug/main.o
+
+.debug_loc      0x0000000000000000      0x8fe
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000       0x14 build/default/debug/application/application.o
+ .debug_loc     0x0000000000000014       0xcd build/default/debug/cli/cli.o
+ .debug_loc     0x00000000000000e1       0x78 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .debug_loc     0x0000000000000159       0x2a build/default/debug/mcc_generated_files/src/cpuint.o
+ .debug_loc     0x0000000000000183      0x123 build/default/debug/mcc_generated_files/src/usart2.o
+ .debug_loc     0x00000000000002a6      0x27a build/default/debug/mcc_generated_files/src/spi0.o
+ .debug_loc     0x0000000000000520      0x172 build/default/debug/mcc_generated_files/mcc.o
+ .debug_loc     0x0000000000000692      0x15e build/default/debug/mcc_generated_files/delay.o
+ .debug_loc     0x00000000000007f0       0x84 build/default/debug/Servo/atmega4808_pwm.o
+ .debug_loc     0x0000000000000874       0x8a build/default/debug/Servo/servo.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000      0x560
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000       0x68 build/default/debug/application/application.o
+ .debug_ranges  0x0000000000000068       0x30 build/default/debug/cli/cli.o
+ .debug_ranges  0x0000000000000098      0x150 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .debug_ranges  0x00000000000001e8       0x10 build/default/debug/mcc_generated_files/src/cpuint.o
+ .debug_ranges  0x00000000000001f8       0xb0 build/default/debug/mcc_generated_files/src/usart2.o
+ .debug_ranges  0x00000000000002a8       0x88 build/default/debug/mcc_generated_files/src/spi0.o
+ .debug_ranges  0x0000000000000330       0xa0 build/default/debug/mcc_generated_files/src/tca0.o
+ .debug_ranges  0x00000000000003d0       0x88 build/default/debug/mcc_generated_files/src/rtc.o
+ .debug_ranges  0x0000000000000458       0x38 build/default/debug/mcc_generated_files/mcc.o
+ .debug_ranges  0x0000000000000490       0x18 build/default/debug/mcc_generated_files/delay.o
+ .debug_ranges  0x00000000000004a8       0x40 build/default/debug/scheduler/atmega4808_rtc.o
+ .debug_ranges  0x00000000000004e8       0x40 build/default/debug/Servo/atmega4808_pwm.o
+ .debug_ranges  0x0000000000000528       0x28 build/default/debug/Servo/servo.o
+ .debug_ranges  0x0000000000000550       0x10 build/default/debug/main.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(dist/default/debug/FishFeeder.X.debug.elf elf32-avr)
+LOAD linker stubs
+LOAD data_init
+
+.note.gnu.avr.deviceinfo
+                0x0000000000000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x0000000000000000       0x40 D:/Toolchains/Microchip/xc8/v2.31/dfp/xc8/avr/lib/avrxmega3/crtatmega4808.o
+
+.bss.state      0x0000000000802889        0x1
+ .bss.state     0x0000000000802889        0x1 build/default/debug/application/application.o
+                0x0000000000802889                state
+
+.bss.sw1_debounce
+                0x000000000080288a        0x1
+ .bss.sw1_debounce
+                0x000000000080288a        0x1 build/default/debug/application/application.o
+
+.bss.sw0_debounce
+                0x000000000080288b        0x1
+ .bss.sw0_debounce
+                0x000000000080288b        0x1 build/default/debug/application/application.o
+
+.bss.table_size
+                0x000000000080288c        0x1
+ .bss.table_size
+                0x000000000080288c        0x1 build/default/debug/cli/cli.o
+
+.bss.cmd_table_ptr
+                0x000000000080286b        0x2
+ .bss.cmd_table_ptr
+                0x000000000080286b        0x2 build/default/debug/cli/cli.o
+
+.bss.buff_count
+                0x000000000080288d        0x1
+ .bss.buff_count
+                0x000000000080288d        0x1 build/default/debug/cli/cli.o
+
+.bss.cmd_found  0x000000000080288e        0x1
+ .bss.cmd_found
+                0x000000000080288e        0x1 build/default/debug/cli/cli.o
+
+.bss.cmd_buff   0x0000000000802815       0x14
+ .bss.cmd_buff  0x0000000000802815       0x14 build/default/debug/cli/cli.o
+
+.bss.PORTF_WAKE_InterruptHandler
+                0x000000000080286d        0x2
+ .bss.PORTF_WAKE_InterruptHandler
+                0x000000000080286d        0x2 build/default/debug/mcc_generated_files/src/pin_manager.o
+
+.bss.PORTF_SW1_InterruptHandler
+                0x000000000080286f        0x2
+ .bss.PORTF_SW1_InterruptHandler
+                0x000000000080286f        0x2 build/default/debug/mcc_generated_files/src/pin_manager.o
+
+.bss.PORTF_INT_InterruptHandler
+                0x0000000000802871        0x2
+ .bss.PORTF_INT_InterruptHandler
+                0x0000000000802871        0x2 build/default/debug/mcc_generated_files/src/pin_manager.o
+
+.bss.PORTF_CE_InterruptHandler
+                0x0000000000802873        0x2
+ .bss.PORTF_CE_InterruptHandler
+                0x0000000000802873        0x2 build/default/debug/mcc_generated_files/src/pin_manager.o
+
+.bss.PORTF_PF0_InterruptHandler
+                0x0000000000802875        0x2
+ .bss.PORTF_PF0_InterruptHandler
+                0x0000000000802875        0x2 build/default/debug/mcc_generated_files/src/pin_manager.o
+
+.bss.PORTF_PF1_InterruptHandler
+                0x0000000000802877        0x2
+ .bss.PORTF_PF1_InterruptHandler
+                0x0000000000802877        0x2 build/default/debug/mcc_generated_files/src/pin_manager.o
+
+.bss.PORTF_SW0_InterruptHandler
+                0x0000000000802879        0x2
+ .bss.PORTF_SW0_InterruptHandler
+                0x0000000000802879        0x2 build/default/debug/mcc_generated_files/src/pin_manager.o
+
+.bss.USART2_tx_elements
+                0x000000000080288f        0x1
+ .bss.USART2_tx_elements
+                0x000000000080288f        0x1 build/default/debug/mcc_generated_files/src/usart2.o
+
+.bss.USART2_tx_tail
+                0x0000000000802890        0x1
+ .bss.USART2_tx_tail
+                0x0000000000802890        0x1 build/default/debug/mcc_generated_files/src/usart2.o
+
+.bss.USART2_tx_head
+                0x0000000000802891        0x1
+ .bss.USART2_tx_head
+                0x0000000000802891        0x1 build/default/debug/mcc_generated_files/src/usart2.o
+
+.bss.USART2_txbuf
+                0x0000000000802857        0x8
+ .bss.USART2_txbuf
+                0x0000000000802857        0x8 build/default/debug/mcc_generated_files/src/usart2.o
+
+.bss.USART2_rx_elements
+                0x0000000000802892        0x1
+ .bss.USART2_rx_elements
+                0x0000000000802892        0x1 build/default/debug/mcc_generated_files/src/usart2.o
+
+.bss.USART2_rx_tail
+                0x0000000000802893        0x1
+ .bss.USART2_rx_tail
+                0x0000000000802893        0x1 build/default/debug/mcc_generated_files/src/usart2.o
+
+.bss.USART2_rx_head
+                0x0000000000802894        0x1
+ .bss.USART2_rx_head
+                0x0000000000802894        0x1 build/default/debug/mcc_generated_files/src/usart2.o
+
+.bss.USART2_rxbuf
+                0x000000000080285f        0x8
+ .bss.USART2_rxbuf
+                0x000000000080285f        0x8 build/default/debug/mcc_generated_files/src/usart2.o
+
+.bss.spi0_desc  0x0000000000802895        0x1
+ .bss.spi0_desc
+                0x0000000000802895        0x1 build/default/debug/mcc_generated_files/src/spi0.o
+
+.bss.RTC_PIT_isr_cb
+                0x0000000000802887        0x2
+ .bss.RTC_PIT_isr_cb
+                0x0000000000802887        0x2 build/default/debug/mcc_generated_files/src/rtc.o
+                0x0000000000802887                RTC_PIT_isr_cb
+
+.bss.tick       0x0000000000802867        0x4
+ .bss.tick      0x0000000000802867        0x4 build/default/debug/scheduler/atmega4808_rtc.o
+
+.text.avrlibc   0x0000000000000102      0x3c2
+ .text.avrlibc  0x0000000000000102      0x3c2 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(vfprintf_std.o)
+                0x0000000000000102                vfprintf
+
+.rodata         0x00000000008044c4      0x2bb load address 0x00000000000004c4
+ .rodata        0x00000000008044c4      0x2bb build/default/debug/application/application.o
+
+.text.PIN_MANAGER_Initialize
+                0x0000000000000780      0x154
+ .text.PIN_MANAGER_Initialize
+                0x0000000000000780      0x154 build/default/debug/mcc_generated_files/src/pin_manager.o
+                0x0000000000000780                PIN_MANAGER_Initialize
+
+.text.avrlibc   0x00000000000008d4       0xbc
+ .text.avrlibc  0x00000000000008d4       0xbc d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(ultoa_invert.o)
+                0x00000000000008d4                __ultoa_invert
+
+.text.__vector_29
+                0x0000000000000990       0xaa
+ .text.__vector_29
+                0x0000000000000990       0xaa build/default/debug/mcc_generated_files/src/pin_manager.o
+                0x0000000000000990                __vector_29
+
+.text.PrintState
+                0x0000000000000a3a       0x88
+ .text.PrintState
+                0x0000000000000a3a       0x88 build/default/debug/application/application.o
+                0x0000000000000a3a                PrintState
+
+.text.avrlibc   0x0000000000000ac2       0x78
+ .text.avrlibc  0x0000000000000ac2       0x78 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(fputc.o)
+                0x0000000000000ac2                fputc
+
+.text.App_HWInit
+                0x0000000000000b3a       0x72
+ .text.App_HWInit
+                0x0000000000000b3a       0x72 build/default/debug/application/application.o
+                0x0000000000000b3a                App_HWInit
+
+.text.PORT_Initialize
+                0x0000000000000bac       0x6e
+ .text.PORT_Initialize
+                0x0000000000000bac       0x6e build/default/debug/mcc_generated_files/src/pin_manager.o
+                0x0000000000000bac                PORT_Initialize
+
+.text.App_SWInit
+                0x0000000000000c1a       0x5e
+ .text.App_SWInit
+                0x0000000000000c1a       0x5e build/default/debug/application/application.o
+                0x0000000000000c1a                App_SWInit
+
+.text.PrintMenu
+                0x0000000000000c78       0x5a
+ .text.PrintMenu
+                0x0000000000000c78       0x5a build/default/debug/application/application.o
+                0x0000000000000c78                PrintMenu
+
+.text.__vector_9
+                0x0000000000000cd2       0x58
+ .text.__vector_9
+                0x0000000000000cd2       0x58 build/default/debug/mcc_generated_files/src/tca0.o
+                0x0000000000000cd2                __vector_9
+
+.text.__vector_10
+                0x0000000000000d2a       0x58
+ .text.__vector_10
+                0x0000000000000d2a       0x58 build/default/debug/mcc_generated_files/src/tca0.o
+                0x0000000000000d2a                __vector_10
+
+.text.__vector_11
+                0x0000000000000d82       0x58
+ .text.__vector_11
+                0x0000000000000d82       0x58 build/default/debug/mcc_generated_files/src/tca0.o
+                0x0000000000000d82                __vector_11
+
+.text.__vector_7
+                0x0000000000000dda       0x58
+ .text.__vector_7
+                0x0000000000000dda       0x58 build/default/debug/mcc_generated_files/src/tca0.o
+                0x0000000000000dda                __vector_7
+
+.text.__vector_4
+                0x0000000000000e32       0x58
+ .text.__vector_4
+                0x0000000000000e32       0x58 build/default/debug/mcc_generated_files/src/rtc.o
+                0x0000000000000e32                __vector_4
+
+.text.__vector_3
+                0x0000000000000e8a       0x58
+ .text.__vector_3
+                0x0000000000000e8a       0x58 build/default/debug/scheduler/atmega4808_rtc.o
+                0x0000000000000e8a                __vector_3
+
+.text.PrintIP   0x0000000000000ee2       0x54
+ .text.PrintIP  0x0000000000000ee2       0x54 build/default/debug/application/application.o
+                0x0000000000000ee2                PrintIP
+
+.text.__vector_31
+                0x0000000000000f36       0x52
+ .text.__vector_31
+                0x0000000000000f36       0x52 build/default/debug/mcc_generated_files/src/usart2.o
+                0x0000000000000f36                __vector_31
+
+.text.__vector_32
+                0x0000000000000f88       0x52
+ .text.__vector_32
+                0x0000000000000f88       0x52 build/default/debug/mcc_generated_files/src/usart2.o
+                0x0000000000000f88                __vector_32
+
+.text.CLKCTRL_Initialize
+                0x0000000000000fda       0x4c
+ .text.CLKCTRL_Initialize
+                0x0000000000000fda       0x4c build/default/debug/mcc_generated_files/mcc.o
+                0x0000000000000fda                CLKCTRL_Initialize
+
+.text.PrintInfo
+                0x0000000000001026       0x48
+ .text.PrintInfo
+                0x0000000000001026       0x48 build/default/debug/application/application.o
+                0x0000000000001026                PrintInfo
+
+.text.USART2_Initialize
+                0x000000000000106e       0x46
+ .text.USART2_Initialize
+                0x000000000000106e       0x46 build/default/debug/mcc_generated_files/src/usart2.o
+                0x000000000000106e                USART2_Initialize
+
+.text.TCA0_Initialize
+                0x00000000000010b4       0x44
+ .text.TCA0_Initialize
+                0x00000000000010b4       0x44 build/default/debug/mcc_generated_files/src/tca0.o
+                0x00000000000010b4                TCA0_Initialize
+
+.text.libgcc.div
+                0x00000000000010f8       0x44
+ .text.libgcc.div
+                0x00000000000010f8       0x44 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_udivmodsi4.o)
+                0x00000000000010f8                __udivmodsi4
+
+.text.USART2_DefaultTxIsrCb
+                0x000000000000113c       0x3e
+ .text.USART2_DefaultTxIsrCb
+                0x000000000000113c       0x3e build/default/debug/mcc_generated_files/src/usart2.o
+                0x000000000000113c                USART2_DefaultTxIsrCb
+
+.text.USART2_Write
+                0x000000000000117a       0x3e
+ .text.USART2_Write
+                0x000000000000117a       0x3e build/default/debug/mcc_generated_files/src/usart2.o
+                0x000000000000117a                USART2_Write
+
+.text.CLI_GetChar
+                0x00000000000011b8       0x38
+ .text.CLI_GetChar
+                0x00000000000011b8       0x38 build/default/debug/cli/cli.o
+                0x00000000000011b8                CLI_GetChar
+
+.text.main      0x00000000000011f0       0x38
+ .text.main     0x00000000000011f0       0x38 build/default/debug/main.o
+                0x00000000000011f0                main
+
+.text.RTC_Initialize
+                0x0000000000001228       0x32
+ .text.RTC_Initialize
+                0x0000000000001228       0x32 build/default/debug/mcc_generated_files/src/rtc.o
+                0x0000000000001228                RTC_Initialize
+
+.text.ATMEGA4808_RTC_Init
+                0x000000000000125a       0x32
+ .text.ATMEGA4808_RTC_Init
+                0x000000000000125a       0x32 build/default/debug/scheduler/atmega4808_rtc.o
+                0x000000000000125a                ATMEGA4808_RTC_Init
+
+.text.ATMEGA4808_PWM_SetPeriod
+                0x000000000000128c       0x32
+ .text.ATMEGA4808_PWM_SetPeriod
+                0x000000000000128c       0x32 build/default/debug/Servo/atmega4808_pwm.o
+                0x000000000000128c                ATMEGA4808_PWM_SetPeriod
+
+.text.libgcc.prologue
+                0x00000000000012be       0x32
+ .text.libgcc.prologue
+                0x00000000000012be       0x32 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_prologue.o)
+                0x00000000000012be                __prologue_saves__
+
+.text.libgcc.prologue
+                0x00000000000012f0       0x30
+ .text.libgcc.prologue
+                0x00000000000012f0       0x30 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_epilogue.o)
+                0x00000000000012f0                __epilogue_restores__
+
+.text.ATMEGA4808_PWM_SetDutyCycle
+                0x0000000000001320       0x2e
+ .text.ATMEGA4808_PWM_SetDutyCycle
+                0x0000000000001320       0x2e build/default/debug/Servo/atmega4808_pwm.o
+                0x0000000000001320                ATMEGA4808_PWM_SetDutyCycle
+
+.text.USART2_DefaultRxIsrCb
+                0x000000000000134e       0x2c
+ .text.USART2_DefaultRxIsrCb
+                0x000000000000134e       0x2c build/default/debug/mcc_generated_files/src/usart2.o
+                0x000000000000134e                USART2_DefaultRxIsrCb
+
+.text.avrlibc   0x000000000000137a       0x2c
+ .text.avrlibc  0x000000000000137a       0x2c d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(printf.o)
+                0x000000000000137a                printf
+
+.text.SW1_InterruptHandler
+                0x00000000000013a6       0x2a
+ .text.SW1_InterruptHandler
+                0x00000000000013a6       0x2a build/default/debug/application/application.o
+
+.text.__vector_33
+                0x00000000000013d0       0x2a
+ .text.__vector_33
+                0x00000000000013d0       0x2a build/default/debug/mcc_generated_files/src/usart2.o
+                0x00000000000013d0                __vector_33
+
+.text.SYSTEM_Initialize
+                0x00000000000013fa       0x2a
+ .text.SYSTEM_Initialize
+                0x00000000000013fa       0x2a build/default/debug/mcc_generated_files/mcc.o
+                0x00000000000013fa                SYSTEM_Initialize
+
+.text.ServoSetPosition
+                0x0000000000001424       0x2a
+ .text.ServoSetPosition
+                0x0000000000001424       0x2a build/default/debug/Servo/servo.o
+                0x0000000000001424                ServoSetPosition
+
+.text.USART2_SetISRCb
+                0x000000000000144e       0x1e
+ .text.USART2_SetISRCb
+                0x000000000000144e       0x1e build/default/debug/mcc_generated_files/src/usart2.o
+                0x000000000000144e                USART2_SetISRCb
+
+.text.__vector_2
+                0x000000000000146c       0x1e
+ .text.__vector_2
+                0x000000000000146c       0x1e build/default/debug/mcc_generated_files/mcc.o
+                0x000000000000146c                __vector_2
+
+.text.SW0_InterruptHandler
+                0x000000000000148a       0x1c
+ .text.SW0_InterruptHandler
+                0x000000000000148a       0x1c build/default/debug/application/application.o
+
+.text.CPUINT_Initialize
+                0x00000000000014a6       0x1a
+ .text.CPUINT_Initialize
+                0x00000000000014a6       0x1a build/default/debug/mcc_generated_files/src/cpuint.o
+                0x00000000000014a6                CPUINT_Initialize
+
+.text.ATMEGA4808_PWM_Init
+                0x00000000000014c0       0x1a
+ .text.ATMEGA4808_PWM_Init
+                0x00000000000014c0       0x1a build/default/debug/Servo/atmega4808_pwm.o
+                0x00000000000014c0                ATMEGA4808_PWM_Init
+
+.text.BOD_Initialize
+                0x00000000000014da       0x18
+ .text.BOD_Initialize
+                0x00000000000014da       0x18 build/default/debug/mcc_generated_files/mcc.o
+                0x00000000000014da                BOD_Initialize
+
+.text.SPI0_Initialize
+                0x00000000000014f2       0x16
+ .text.SPI0_Initialize
+                0x00000000000014f2       0x16 build/default/debug/mcc_generated_files/src/spi0.o
+                0x00000000000014f2                SPI0_Initialize
+
+.text.DELAY_milliseconds
+                0x0000000000001508       0x16
+ .text.DELAY_milliseconds
+                0x0000000000001508       0x16 build/default/debug/mcc_generated_files/delay.o
+                0x0000000000001508                DELAY_milliseconds
+
+.text.avrlibc   0x000000000000151e       0x16
+ .text.avrlibc  0x000000000000151e       0x16 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(strnlen_P.o)
+                0x000000000000151e                strnlen_P
+
+.text.avrlibc   0x0000000000001534       0x16
+ .text.avrlibc  0x0000000000001534       0x16 d:/toolchains/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(strnlen.o)
+                0x0000000000001534                strnlen
+
+.text.CLI_GetVersion
+                0x000000000000154a       0x12
+ .text.CLI_GetVersion
+                0x000000000000154a       0x12 build/default/debug/cli/cli.o
+                0x000000000000154a                CLI_GetVersion
+
+.text.ServoInit
+                0x000000000000155c       0x12
+ .text.ServoInit
+                0x000000000000155c       0x12 build/default/debug/Servo/servo.o
+                0x000000000000155c                ServoInit
+
+.text.CLI_Init  0x000000000000156e       0x10
+ .text.CLI_Init
+                0x000000000000156e       0x10 build/default/debug/cli/cli.o
+                0x000000000000156e                CLI_Init
+
+.text.SLPCTRL_Initialize
+                0x000000000000157e       0x10
+ .text.SLPCTRL_Initialize
+                0x000000000000157e       0x10 build/default/debug/mcc_generated_files/mcc.o
+                0x000000000000157e                SLPCTRL_Initialize
+
+.text.WDT_Initialize
+                0x000000000000158e       0x10
+ .text.WDT_Initialize
+                0x000000000000158e       0x10 build/default/debug/mcc_generated_files/mcc.o
+                0x000000000000158e                WDT_Initialize
+
+.text.ATMEGA4808_PWM_Start
+                0x000000000000159e       0x10
+ .text.ATMEGA4808_PWM_Start
+                0x000000000000159e       0x10 build/default/debug/Servo/atmega4808_pwm.o
+                0x000000000000159e                ATMEGA4808_PWM_Start
+
+.text.UART2_RXCallback
+                0x00000000000015ae        0xe
+ .text.UART2_RXCallback
+                0x00000000000015ae        0xe build/default/debug/application/application.o
+
+.text.USART2_Enable
+                0x00000000000015bc        0xc
+ .text.USART2_Enable
+                0x00000000000015bc        0xc build/default/debug/mcc_generated_files/src/usart2.o
+                0x00000000000015bc                USART2_Enable
+
+.text.TCA0_ClearOverflowInterruptFlag
+                0x00000000000015c8        0xc
+ .text.TCA0_ClearOverflowInterruptFlag
+                0x00000000000015c8        0xc build/default/debug/mcc_generated_files/src/tca0.o
+                0x00000000000015c8                TCA0_ClearOverflowInterruptFlag
+
+.text.ATMEGA4808_RTC_Start
+                0x00000000000015d4        0xc
+ .text.ATMEGA4808_RTC_Start
+                0x00000000000015d4        0xc build/default/debug/scheduler/atmega4808_rtc.o
+                0x00000000000015d4                ATMEGA4808_RTC_Start
+
+.text.ATMEGA4808_RTC_Stop
+                0x00000000000015e0        0xc
+ .text.ATMEGA4808_RTC_Stop
+                0x00000000000015e0        0xc build/default/debug/scheduler/atmega4808_rtc.o
+                0x00000000000015e0                ATMEGA4808_RTC_Stop
+
+.text.ATMEGA4808_PWM_Stop
+                0x00000000000015ec        0xc
+ .text.ATMEGA4808_PWM_Stop
+                0x00000000000015ec        0xc build/default/debug/Servo/atmega4808_pwm.o
+                0x00000000000015ec                ATMEGA4808_PWM_Stop
+
+.text.PORTF_SW0_SetInterruptHandler
+                0x00000000000015f8        0xa
+ .text.PORTF_SW0_SetInterruptHandler
+                0x00000000000015f8        0xa build/default/debug/mcc_generated_files/src/pin_manager.o
+                0x00000000000015f8                PORTF_SW0_SetInterruptHandler
+
+.text.PORTF_SW1_SetInterruptHandler
+                0x0000000000001602        0xa
+ .text.PORTF_SW1_SetInterruptHandler
+                0x0000000000001602        0xa build/default/debug/mcc_generated_files/src/pin_manager.o
+                0x0000000000001602                PORTF_SW1_SetInterruptHandler
+
+.text.USART2_printCHAR
+                0x000000000000160c        0xa
+ .text.USART2_printCHAR
+                0x000000000000160c        0xa build/default/debug/mcc_generated_files/src/usart2.o
+                0x000000000000160c                USART2_printCHAR
+
+.text.TCA0_SetOVFIsrCallback
+                0x0000000000001616        0xa
+ .text.TCA0_SetOVFIsrCallback
+                0x0000000000001616        0xa build/default/debug/mcc_generated_files/src/tca0.o
+                0x0000000000001616                TCA0_SetOVFIsrCallback
+
+.text.protected_write_io
+                0x0000000000001620        0x8
+ .text.protected_write_io
+                0x0000000000001620        0x8 build/default/debug/mcc_generated_files/src/protected_io.o
+                0x0000000000001620                protected_write_io
+
+.text.PwmOverflowCallback
+                0x0000000000001628        0x6
+ .text.PwmOverflowCallback
+                0x0000000000001628        0x6 build/default/debug/Servo/atmega4808_pwm.o
+
+.text.ServoStart
+                0x000000000000162e        0x6
+ .text.ServoStart
+                0x000000000000162e        0x6 build/default/debug/Servo/servo.o
+                0x000000000000162e                ServoStart
+
+.text           0x0000000000001634        0x4
+ .text          0x0000000000001634        0x4 D:/Toolchains/Microchip/xc8/v2.31/dfp/xc8/avr/lib/avrxmega3/crtatmega4808.o
+                0x0000000000001634                __vector_22
+                0x0000000000001634                __vector_28
+                0x0000000000001634                __vector_1
+                0x0000000000001634                __vector_34
+                0x0000000000001634                __vector_24
+                0x0000000000001634                __vector_12
+                0x0000000000001634                __bad_interrupt
+                0x0000000000001634                __vector_6
+                0x0000000000001634                __vector_35
+                0x0000000000001634                __vector_23
+                0x0000000000001634                __vector_30
+                0x0000000000001634                __vector_25
+                0x0000000000001634                __vector_13
+                0x0000000000001634                __vector_17
+                0x0000000000001634                __vector_19
+                0x0000000000001634                __vector_27
+                0x0000000000001634                __vector_5
+                0x0000000000001634                __vector_21
+                0x0000000000001634                __vector_15
+                0x0000000000001634                __vector_8
+                0x0000000000001634                __vector_26
+                0x0000000000001634                __vector_14
+                0x0000000000001634                __vector_16
+                0x0000000000001634                __vector_18
+                0x0000000000001634                __vector_20
+
+.text.PORTF_SW0_DefaultInterruptHandler
+                0x0000000000001638        0x2
+ .text.PORTF_SW0_DefaultInterruptHandler
+                0x0000000000001638        0x2 build/default/debug/mcc_generated_files/src/pin_manager.o
+                0x0000000000001638                PORTF_SW0_DefaultInterruptHandler
+
+.text.PORTF_PF1_DefaultInterruptHandler
+                0x000000000000163a        0x2
+ .text.PORTF_PF1_DefaultInterruptHandler
+                0x000000000000163a        0x2 build/default/debug/mcc_generated_files/src/pin_manager.o
+                0x000000000000163a                PORTF_PF1_DefaultInterruptHandler
+
+.text.PORTF_PF0_DefaultInterruptHandler
+                0x000000000000163c        0x2
+ .text.PORTF_PF0_DefaultInterruptHandler
+                0x000000000000163c        0x2 build/default/debug/mcc_generated_files/src/pin_manager.o
+                0x000000000000163c                PORTF_PF0_DefaultInterruptHandler
+
+.text.PORTF_CE_DefaultInterruptHandler
+                0x000000000000163e        0x2
+ .text.PORTF_CE_DefaultInterruptHandler
+                0x000000000000163e        0x2 build/default/debug/mcc_generated_files/src/pin_manager.o
+                0x000000000000163e                PORTF_CE_DefaultInterruptHandler
+
+.text.PORTF_INT_DefaultInterruptHandler
+                0x0000000000001640        0x2
+ .text.PORTF_INT_DefaultInterruptHandler
+                0x0000000000001640        0x2 build/default/debug/mcc_generated_files/src/pin_manager.o
+                0x0000000000001640                PORTF_INT_DefaultInterruptHandler
+
+.text.PORTF_SW1_DefaultInterruptHandler
+                0x0000000000001642        0x2
+ .text.PORTF_SW1_DefaultInterruptHandler
+                0x0000000000001642        0x2 build/default/debug/mcc_generated_files/src/pin_manager.o
+                0x0000000000001642                PORTF_SW1_DefaultInterruptHandler
+
+.text.PORTF_WAKE_DefaultInterruptHandler
+                0x0000000000001644        0x2
+ .text.PORTF_WAKE_DefaultInterruptHandler
+                0x0000000000001644        0x2 build/default/debug/mcc_generated_files/src/pin_manager.o
+                0x0000000000001644                PORTF_WAKE_DefaultInterruptHandler
+
+.text.TCA0_DefaultCMP0IsrCallback
+                0x0000000000001646        0x2
+ .text.TCA0_DefaultCMP0IsrCallback
+                0x0000000000001646        0x2 build/default/debug/mcc_generated_files/src/tca0.o
+                0x0000000000001646                TCA0_DefaultCMP0IsrCallback
+
+.text.TCA0_DefaultCMP1IsrCallback
+                0x0000000000001648        0x2
+ .text.TCA0_DefaultCMP1IsrCallback
+                0x0000000000001648        0x2 build/default/debug/mcc_generated_files/src/tca0.o
+                0x0000000000001648                TCA0_DefaultCMP1IsrCallback
+
+.text.TCA0_DefaultCMP2IsrCallback
+                0x000000000000164a        0x2
+ .text.TCA0_DefaultCMP2IsrCallback
+                0x000000000000164a        0x2 build/default/debug/mcc_generated_files/src/tca0.o
+                0x000000000000164a                TCA0_DefaultCMP2IsrCallback
+
+.text.TCA0_DefaultOVFIsrCallback
+                0x000000000000164c        0x2
+ .text.TCA0_DefaultOVFIsrCallback
+                0x000000000000164c        0x2 build/default/debug/mcc_generated_files/src/tca0.o
+                0x000000000000164c                TCA0_DefaultOVFIsrCallback
+
+.data.cmd_description_table
+                0x0000000000802829       0x10 load address 0x000000000000164e
+ .data.cmd_description_table
+                0x0000000000802829       0x10 build/default/debug/application/application.o
+                0x0000000000802829                cmd_description_table
+
+.data.cmd_table
+                0x0000000000802839       0x10 load address 0x000000000000165e
+ .data.cmd_table
+                0x0000000000802839       0x10 build/default/debug/application/application.o
+                0x0000000000802839                cmd_table
+
+.data.USART2_stream
+                0x0000000000802849        0xe load address 0x000000000000166e
+ .data.USART2_stream
+                0x0000000000802849        0xe build/default/debug/mcc_generated_files/src/usart2.o
+                0x0000000000802849                USART2_stream
+
+.data.USART2_tx_isr_cb
+                0x000000000080287b        0x2 load address 0x000000000000167c
+ .data.USART2_tx_isr_cb
+                0x000000000080287b        0x2 build/default/debug/mcc_generated_files/src/usart2.o
+                0x000000000080287b                USART2_tx_isr_cb
+
+.data.USART2_rx_isr_cb
+                0x000000000080287d        0x2 load address 0x000000000000167e
+ .data.USART2_rx_isr_cb
+                0x000000000080287d        0x2 build/default/debug/mcc_generated_files/src/usart2.o
+                0x000000000080287d                USART2_rx_isr_cb
+
+.data.TCA0_OVF_isr_cb
+                0x000000000080287f        0x2 load address 0x0000000000001680
+ .data.TCA0_OVF_isr_cb
+                0x000000000080287f        0x2 build/default/debug/mcc_generated_files/src/tca0.o
+                0x000000000080287f                TCA0_OVF_isr_cb
+
+.data.TCA0_CMP2_isr_cb
+                0x0000000000802881        0x2 load address 0x0000000000001682
+ .data.TCA0_CMP2_isr_cb
+                0x0000000000802881        0x2 build/default/debug/mcc_generated_files/src/tca0.o
+                0x0000000000802881                TCA0_CMP2_isr_cb
+
+.data.TCA0_CMP1_isr_cb
+                0x0000000000802883        0x2 load address 0x0000000000001684
+ .data.TCA0_CMP1_isr_cb
+                0x0000000000802883        0x2 build/default/debug/mcc_generated_files/src/tca0.o
+                0x0000000000802883                TCA0_CMP1_isr_cb
+
+.data.TCA0_CMP0_isr_cb
+                0x0000000000802885        0x2 load address 0x0000000000001686
+ .data.TCA0_CMP0_isr_cb
+                0x0000000000802885        0x2 build/default/debug/mcc_generated_files/src/tca0.o
+                0x0000000000802885                TCA0_CMP0_isr_cb
