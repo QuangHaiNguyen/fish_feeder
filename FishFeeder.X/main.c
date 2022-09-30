@@ -12,6 +12,8 @@
 */
 
 #define delay 5
+#define RESET_WDT()     asm("wdr")
+
 int main(void)
 {
     /* Initializes MCU, drivers and middleware */
@@ -20,33 +22,11 @@ int main(void)
     
     App_HWInit();
     App_SWInit();
-    while (1){
+    while (1)
+    {
+        RESET_WDT();
         //Handle incomming command
-        //App_Run();
-        
-        IO_PA2_SetHigh();
-        IO_PA3_SetLow();
-        IO_PD6_SetLow();
-        IO_PD4_SetLow();
-        DELAY_milliseconds(delay);
-        
-        IO_PA2_SetLow();
-        IO_PA3_SetHigh();
-        IO_PD6_SetLow();
-        IO_PD4_SetLow();
-        DELAY_milliseconds(delay);
-        
-        IO_PA2_SetLow();
-        IO_PA3_SetLow();
-        IO_PD6_SetHigh();
-        IO_PD4_SetLow();
-        DELAY_milliseconds(delay);
-        
-        IO_PA2_SetLow();
-        IO_PA3_SetLow();
-        IO_PD6_SetLow();
-        IO_PD4_SetHigh();
-        DELAY_milliseconds(delay);
+        App_Run();
     }
 }
 

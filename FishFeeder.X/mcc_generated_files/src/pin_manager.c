@@ -34,8 +34,8 @@
 #include "../include/pin_manager.h"
 static void (*PORTA_IO_PA2_InterruptHandler)(void);
 static void (*PORTF_SW0_InterruptHandler)(void);
-static void (*PORTA_RST_InterruptHandler)(void);
 static void (*PORTD_IO_PD4_InterruptHandler)(void);
+static void (*PORTA_RST_InterruptHandler)(void);
 static void (*PORTA_PA4_InterruptHandler)(void);
 static void (*PORTD_IO_PD6_InterruptHandler)(void);
 static void (*PORTA_IO_PA3_InterruptHandler)(void);
@@ -45,8 +45,8 @@ static void (*PORTA_nCS_InterruptHandler)(void);
 static void (*PORTF_PF1_InterruptHandler)(void);
 static void (*PORTF_PF0_InterruptHandler)(void);
 static void (*PORTD_YELLOW_LED_InterruptHandler)(void);
-static void (*PORTC_IO_PC0_InterruptHandler)(void);
 static void (*PORTF_CE_InterruptHandler)(void);
+static void (*PORTC_PC0_InterruptHandler)(void);
 static void (*PORTD_RED_LED_InterruptHandler)(void);
 static void (*PORTF_INT_InterruptHandler)(void);
 static void (*PORTF_SW1_InterruptHandler)(void);
@@ -65,7 +65,7 @@ void PIN_MANAGER_Initialize()
     /* DIR Registers Initialization */
     PORTA.DIR = 0xDE;
     PORTB.DIR = 0x00;
-    PORTC.DIR = 0x06;
+    PORTC.DIR = 0x07;
     PORTD.DIR = 0x5A;
     PORTE.DIR = 0x00;
     PORTF.DIR = 0x19;
@@ -139,8 +139,8 @@ void PIN_MANAGER_Initialize()
     // register default ISC callback functions at runtime; use these methods to register a custom function
     PORTA_IO_PA2_SetInterruptHandler(PORTA_IO_PA2_DefaultInterruptHandler);
     PORTF_SW0_SetInterruptHandler(PORTF_SW0_DefaultInterruptHandler);
-    PORTA_RST_SetInterruptHandler(PORTA_RST_DefaultInterruptHandler);
     PORTD_IO_PD4_SetInterruptHandler(PORTD_IO_PD4_DefaultInterruptHandler);
+    PORTA_RST_SetInterruptHandler(PORTA_RST_DefaultInterruptHandler);
     PORTA_PA4_SetInterruptHandler(PORTA_PA4_DefaultInterruptHandler);
     PORTD_IO_PD6_SetInterruptHandler(PORTD_IO_PD6_DefaultInterruptHandler);
     PORTA_IO_PA3_SetInterruptHandler(PORTA_IO_PA3_DefaultInterruptHandler);
@@ -150,8 +150,8 @@ void PIN_MANAGER_Initialize()
     PORTF_PF1_SetInterruptHandler(PORTF_PF1_DefaultInterruptHandler);
     PORTF_PF0_SetInterruptHandler(PORTF_PF0_DefaultInterruptHandler);
     PORTD_YELLOW_LED_SetInterruptHandler(PORTD_YELLOW_LED_DefaultInterruptHandler);
-    PORTC_IO_PC0_SetInterruptHandler(PORTC_IO_PC0_DefaultInterruptHandler);
     PORTF_CE_SetInterruptHandler(PORTF_CE_DefaultInterruptHandler);
+    PORTC_PC0_SetInterruptHandler(PORTC_PC0_DefaultInterruptHandler);
     PORTD_RED_LED_SetInterruptHandler(PORTD_RED_LED_DefaultInterruptHandler);
     PORTF_INT_SetInterruptHandler(PORTF_INT_DefaultInterruptHandler);
     PORTF_SW1_SetInterruptHandler(PORTF_SW1_DefaultInterruptHandler);
@@ -222,19 +222,6 @@ void PORTF_SW0_DefaultInterruptHandler(void)
     // or set custom function using PORTF_SW0_SetInterruptHandler()
 }
 /**
-  Allows selecting an interrupt handler for PORTA_RST at application runtime
-*/
-void PORTA_RST_SetInterruptHandler(void (* interruptHandler)(void)) 
-{
-    PORTA_RST_InterruptHandler = interruptHandler;
-}
-
-void PORTA_RST_DefaultInterruptHandler(void)
-{
-    // add your PORTA_RST interrupt custom code
-    // or set custom function using PORTA_RST_SetInterruptHandler()
-}
-/**
   Allows selecting an interrupt handler for PORTD_IO_PD4 at application runtime
 */
 void PORTD_IO_PD4_SetInterruptHandler(void (* interruptHandler)(void)) 
@@ -246,6 +233,19 @@ void PORTD_IO_PD4_DefaultInterruptHandler(void)
 {
     // add your PORTD_IO_PD4 interrupt custom code
     // or set custom function using PORTD_IO_PD4_SetInterruptHandler()
+}
+/**
+  Allows selecting an interrupt handler for PORTA_RST at application runtime
+*/
+void PORTA_RST_SetInterruptHandler(void (* interruptHandler)(void)) 
+{
+    PORTA_RST_InterruptHandler = interruptHandler;
+}
+
+void PORTA_RST_DefaultInterruptHandler(void)
+{
+    // add your PORTA_RST interrupt custom code
+    // or set custom function using PORTA_RST_SetInterruptHandler()
 }
 /**
   Allows selecting an interrupt handler for PORTA_PA4 at application runtime
@@ -365,19 +365,6 @@ void PORTD_YELLOW_LED_DefaultInterruptHandler(void)
     // or set custom function using PORTD_YELLOW_LED_SetInterruptHandler()
 }
 /**
-  Allows selecting an interrupt handler for PORTC_IO_PC0 at application runtime
-*/
-void PORTC_IO_PC0_SetInterruptHandler(void (* interruptHandler)(void)) 
-{
-    PORTC_IO_PC0_InterruptHandler = interruptHandler;
-}
-
-void PORTC_IO_PC0_DefaultInterruptHandler(void)
-{
-    // add your PORTC_IO_PC0 interrupt custom code
-    // or set custom function using PORTC_IO_PC0_SetInterruptHandler()
-}
-/**
   Allows selecting an interrupt handler for PORTF_CE at application runtime
 */
 void PORTF_CE_SetInterruptHandler(void (* interruptHandler)(void)) 
@@ -389,6 +376,19 @@ void PORTF_CE_DefaultInterruptHandler(void)
 {
     // add your PORTF_CE interrupt custom code
     // or set custom function using PORTF_CE_SetInterruptHandler()
+}
+/**
+  Allows selecting an interrupt handler for PORTC_PC0 at application runtime
+*/
+void PORTC_PC0_SetInterruptHandler(void (* interruptHandler)(void)) 
+{
+    PORTC_PC0_InterruptHandler = interruptHandler;
+}
+
+void PORTC_PC0_DefaultInterruptHandler(void)
+{
+    // add your PORTC_PC0 interrupt custom code
+    // or set custom function using PORTC_PC0_SetInterruptHandler()
 }
 /**
   Allows selecting an interrupt handler for PORTD_RED_LED at application runtime

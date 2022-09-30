@@ -118,8 +118,8 @@ int8_t SLPCTRL_Initialize()
  
 int8_t WDT_Initialize()
 {
-    //WINDOW OFF; PERIOD OFF; 
-    ccp_write_io((void*)&(WDT.CTRLA),0x00);
+    //WINDOW OFF; PERIOD 8KCLK; 
+    ccp_write_io((void*)&(WDT.CTRLA),0x0B);
 
 	return 0;
 }
